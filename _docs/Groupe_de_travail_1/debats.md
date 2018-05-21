@@ -1,6 +1,6 @@
 ---
 title: Debats
-category: gt1
+category:
 order: 3
 ---
 
