@@ -1,6 +1,6 @@
 ---
 title: Debats
-category: Groupe de travail 1 : atteindre et orienter les publics cibles
+category: gt1
 order: 3
 ---
 
