@@ -4,7 +4,7 @@ category: Groupe de travail 1 : atteindre et orienter les publics cibles
 order: 2
 ---
 
-##1.1- Une diversité de publics complexe à identifier
+### 1.1- Une diversité de publics complexe à identifier
 
 
 [Diverses études documentant les usages numériques des Français](https://societenumerique.gouv.fr/13-millions-de-francais-en-difficulte-avec-le-numerique/) montrent qu'en 2016, 16% des Français ne sont pas internautes (n'ont pas utilisé internet au moins une fois au cours des 3 derniers mois). Parmi les internautes, 15% se disent peu ou pas du tout à l'aise dans l'usage d'internet.
@@ -22,7 +22,7 @@ Ce constat est partagé par l'ensemble des acteurs auditionnés et les contribut
 **Les professionnels au contact des publics** (travailleurs sociaux, professionnels de l'action médico-sociale, bénévoles, aidants etc.) **sont aussi confrontés aux évolutions** induites par le numérique et ne sont pas toujours à l'aise sur les outils informatiques*.
 
 
-## 1.2 - Un accès aux droits à repenser dans un contexte de dématérialisation des services publics
+### 1.2 - Un accès aux droits à repenser dans un contexte de dématérialisation des services publics
 
 Dans un contexte de numérisation de nombreux services publics et privés, les personnes non internautes ou peu à l'aise avec l'usage d'internet rencontrent de grandes difficultés dans leur vie quotidienne, notamment pour l'accès aux droits* malgré les différentes actions d'accompagnement mises en œuvre par les opérateurs  eux-mêmes.
 
@@ -58,13 +58,13 @@ Dans ce contexte, certains opérateurs développent des solutions pour mieux dé
 > Des expérimentations telles que celle sur le **coffre-fort numérique** pilotée par la DGCS* et l'UNCCAS* ont permis de montrer que la question de l'accès à l'équipement informatique se pose encore pour les publics des CCAS ; le public jeune n'est pas forcément plus à l'aise avec un coffre-fort numérique permettant de stocker ses justificatifs. (DGCS : Direction Générale de la Cohésion Sociale – UNCCAS : Union nationale des Centres Communaux d'Action Sociale)
 
 
-## 1.3- Un équipement des personnes ou une mise à disposition de matériel informatique non synonyme de maîtrise des outils numériques
+### 1.3- Un équipement des personnes ou une mise à disposition de matériel informatique non synonyme de maîtrise des outils numériques
 
 De nombreuses personnes sont équipées mais ont un usage avant tout récréatif des outils, sans parvenir à les utiliser pour des démarches administratives. Le Défenseur des droits souligne que la mise à disposition de matériel informatique est loin de permettre l'accès aux droits par tous.
 
 > « Un nombre non négligeable de personnes souffre d'un fort déficit d'autonomie. Ils ne prennent pas l'initiative de s'installer devant un point numérique vacant et d'entamer la démarche s'ils ne sont pas pris en charge par un médiateur numérique. Les difficultés rencontrées par ces usagers sont telles que les médiateurs numériques sont fréquemment conduits à se substituer à eux.» **Bernard Dreyfus – Délégué général à la médiation avec les services publics auprès du Défenseur des droits**
 
-## 1.4- Un ensemble d'acteurs à identifier et à accompagner
+### 1.4- Un ensemble d'acteurs à identifier et à accompagner
 
 
 **Au contact de ces publics en difficulté avec le numérique se trouve une diversité d'acteurs**, organisations de la solidarité, agents publics, bénévoles ou salariés, acteurs de proximité et de l'éducation populaire, agents des médiathèques et bibliothèques, postiers, gendarmes, services civiques, élus locaux…

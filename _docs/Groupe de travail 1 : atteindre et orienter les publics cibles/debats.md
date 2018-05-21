@@ -1,5 +1,5 @@
 ---
-title: Constats partagés
+title: Debats
 category: Groupe de travail 1 : atteindre et orienter les publics cibles
 order: 3
 ---
