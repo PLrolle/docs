@@ -1,6 +1,6 @@
 ---
 title: Introduction
-category: Groupe de travail 1 : atteindre et orienter les publics
+category: Groupe de travail 1 - atteindre et orienter les publics
 order: 1
 ---
 
