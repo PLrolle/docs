@@ -1,6 +1,6 @@
 ---
 title: Introduction
-category: gt1
+category: Groupe de travail 1 : atteindre et orienter les publics
 order: 1
 ---
 
