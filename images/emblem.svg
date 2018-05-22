@@ -1,4 +1,42 @@
-<svg fill="#ffffff" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <path d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2z"/>
-    <path d="M0 0h24v24H0z" fill="none"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="92px" viewBox="0 0 107 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>logo_MissionSoNUM_RVB_logo_dégradé blanc_typo blanche</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-18.4328881%" y1="108.19%" x2="70.0782972%" y2="39.1497059%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D1D3D4" offset="99.74%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0021869%" y1="-19.7010444%" x2="50.0021869%" y2="98.8198433%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D1D3D4" offset="99.74%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.66024096%" y1="116.568696%" x2="125.119277%" y2="33.5132174%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D1D3D4" offset="99.74%"></stop>
+        </linearGradient>
+        <linearGradient x1="83.9167147%" y1="-12.7248663%" x2="-10.5567723%" y2="103.063904%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D1D3D4" offset="99.74%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0417462%" y1="37.2834515%" x2="50.0417462%" y2="123.629551%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D1D3D4" offset="99.74%"></stop>
+        </linearGradient>
+        <linearGradient x1="75.5697793%" y1="124.374941%" x2="49.1088285%" y2="23.0508274%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D1D3D4" offset="99.74%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo_MissionSoNUM_RVB_logo_dégradé-blanc_typo-blanche" fill-rule="nonzero">
+            <polygon id="Shape" fill="url(#linearGradient-1)" points="46.9 68.9 80.6 0.9 106.8 45.6"></polygon>
+            <polygon id="Shape" fill="url(#linearGradient-2)" points="27.4 2.8 27.4 41.1 63.1 32.3 77.7 2.8"></polygon>
+            <polygon id="Shape" fill="url(#linearGradient-3)" points="0.9 47 25.8 61.4 25.8 3.9"></polygon>
+            <polygon id="Shape" fill="url(#linearGradient-4)" points="27.4 42.8 27.4 62.3 43.6 71.6 62.1 34.2"></polygon>
+            <polygon id="Shape" fill="url(#linearGradient-5)" points="2 49.5 26.5 91.8 75.3 91.8"></polygon>
+            <polygon id="Shape" fill="url(#linearGradient-6)" points="43.6 71.6 78 91.5 102.5 49.2"></polygon>
+        </g>
+    </g>
 </svg>
