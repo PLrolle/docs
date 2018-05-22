@@ -1,0 +1,27 @@
+---
+title: Constats partagés
+category: Chapitre 2 - structurer l'offre de médiation et de formation au numérique
+order: 2
+---
+
+Les acteurs de la m&eacute;diation num&eacute;rique se sont organis&eacute;s pour r&eacute;pondre aux enjeux de l’accompagnement des publics dans les usages num&eacute;riques. **N&eacute;anmoins, le besoin de formation de la population est massif** et les r&eacute;ponses actuelles sont insuffisantes. Aujourd’hui les personnes qui sont au contact de ces publics en difficult&eacute; sont diverses et s’accordent sur le besoin de **formation des aidants num&eacute;riques.**
+
+> *&laquo;* Dans un contexte de d&eacute;mat&eacute;rialisation croissante de nombreux services publics, les demandes d’organisation de formations pour accompagner les usagers confront&eacute;s &agrave; la mutation num&eacute;rique ne trouvent pas toujours r&eacute;ponse suffisante. Il para&icirc;t donc y avoir urgence &agrave; d&eacute;velopper une offre de service structur&eacute;e, professionnalis&eacute;e et lisible, et &agrave; pr&eacute;voir les circuits d’orientation vers elle. &raquo;
+>
+>
+> [***Rapport IGAS “La transformation digitale de la formation professionnelle continue”, mars 2017***](http://www.igas.gouv.fr/spip.php?article607){: target="_blank"}
+
+**Une connaissance et une coordination des diff&eacute;rents intervenants aupr&egrave;s des publics sont n&eacute;cessaires &agrave; l’&eacute;chelle des territoires** (m&eacute;diateurs num&eacute;riques, travailleurs sociaux, b&eacute;n&eacute;voles, secr&eacute;taires de mairie, etc.) afin de garantir un accompagnement de qualit&eacute; des publics. Parmi ces acteurs, ceux de la m&eacute;diation num&eacute;rique figurent parmi les plus outill&eacute;s pour r&eacute;pondre &agrave; ces enjeux d’accompagner et de mettre en autonomie les usages face au num&eacute;rique. Cependant, &agrave; l’heure actuelle, les contours de la fili&egrave;re de la m&eacute;diation num&eacute;rique reste encore &agrave; d&eacute;finir. Les voies de professionnalisation qui y m&egrave;nent sont encore relativement m&eacute;connues.&nbsp; **La structuration de la m&eacute;diation num&eacute;rique** serait susceptible d’assurer la formation des acteurs non-professionnels de la m&eacute;diation num&eacute;rique, la mont&eacute;e en gamme et la diversification de l’offre de services d’accompagnement des publics au num&eacute;rique dans les territoires.
+
+Mehdi Serdidi, directeur de l’ASTS r&eacute;sume la situation, en &eacute;voquant le manque de postulants aux postes de m&eacute;diateurs : *&laquo; 1 - la formation n’est pas organis&eacute;e. 2 - de nombreux professionnels ignorent &ecirc;tre des m&eacute;diateurs num&eacute;riques &raquo;*.
+
+> &laquo; on assiste &agrave; un *turnover* pr&eacute;judiciable &agrave; l’exercice de la m&eacute;diation num&eacute;rique aupr&egrave;s des publics, avec notamment la d&eacute;perdition des comp&eacute;tences, expliquant la discontinuit&eacute; et la diff&eacute;renciation de niveau des services rendus dans les lieux de m&eacute;diation num&eacute;rique. &Agrave; m&ecirc;me niveau de responsabilit&eacute;, les acteurs pr&eacute;sentent un &eacute;cart consid&eacute;rable de comp&eacute;tences professionnelles. Ce manque d’uniformit&eacute; des pratiques professionnelles et des niveaux d’intervention g&eacute;n&egrave;rent des in&eacute;galit&eacute;s d’opportunit&eacute; pour les publics, qui plus est pr&eacute;judiciable &agrave; la valorisation du secteur. &raquo;
+>
+>
+> ***&nbsp;Association ARSENIC*.**
+
+**Les acteurs dont la mission principale est la m&eacute;diation num&eacute;rique s’accordent sur l’existence d’outils de valorisation de leurs activit&eacute;s** ‑ r&eacute;f&eacute;rentiels, labels, cartographies d’acteurs et de pratiques ‑ **mais rel&egrave;vent le manque de lisibilit&eacute; et d’articulation des diff&eacute;rentes initiatives.** Le secteur de la m&eacute;diation num&eacute;rique souffre d’une offre segment&eacute;e et diversifi&eacute;e qui produit un &eacute;clatement des acteurs sur les territoires. Au-del&agrave; de la visibilit&eacute; des structures et des offres de services existantes, **l’objectif est l’acc&egrave;s &agrave; une offre de m&eacute;diation num&eacute;rique pour les Fran&ccedil;ais, de proximit&eacute; et de qualit&eacute;** sur tout le territoire, notamment dans les zones rurales les moins dot&eacute;es.
+
+Enfin, de nombreuses contributions &eacute;voquent **la diversit&eacute; croissante des lieux qui font de la m&eacute;diation num&eacute;rique**, en toute ou partie de leur activit&eacute;. Aux acteurs agissant dans des lieux &laquo; historiques &raquo; (espaces publics num&eacute;riques notamment) s’ajoutent de plus en plus des **acteurs “mobiles” de l’accompagnement au num&eacute;rique**, qui agissent en proximit&eacute; dans des lieux dont la m&eacute;diation num&eacute;rique n’est pas l’activit&eacute; principale (maisons de retraites, agences CAF/P&ocirc;le Emploi, associations tierces) ou &agrave; domicile.
+
+**Ainsi, si l’inclusion num&eacute;rique est bien l’affaire de tous dans la mesure o&ugrave; chaque acteur accueillant du public doit &ecirc;tre en mesure de sensibiliser, identifier et orienter les publics, la** structuration du r&eacute;seau de la m&eacute;diation num&eacute;rique doit permettre l’accompagnement et la mont&eacute;e en comp&eacute;tence des Fran&ccedil;ais.
