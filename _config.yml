@@ -9,14 +9,15 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: Rapport de la stratégie nationale pour un numérique inclusif.
 author: Gouvernement
   name: Mission Société Numérique
   email: societenumerique@finances.gouv.fr
   twitter: MissionSoNum
 social:
-  name: Rapport - stratégie nationale pour un numérique inclusif
-  links: https://rapport.societenumerique.gouv.fr
+  name: Rapport stratégie nationale pour un numérique inclusif
+  links: 
+  - https://rapport.societenumerique.gouv.fr
 
 # -----
 # Build
