@@ -6,7 +6,7 @@ order: 1
 
 ## Les rapporteurs du groupe de travail 2
 
-&nbsp;
+![](https://societenumerique.gouv.fr/wp-content/uploads/2018/01/logosGT2-768x173.png)
 
 L’Association des Petites Villes de France (APVF) et la coop&eacute;rative La MedNum
 
