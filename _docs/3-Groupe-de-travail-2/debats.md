@@ -4,7 +4,7 @@ category: Chapitre 2 - structurer l'offre de médiation et de formation au numé
 order: 3
 ---
 
-## 2.1 \_La formation au num&eacute;rique : un double enjeu pour les aidants et les m&eacute;diateurs
+## 2.1 La formation au num&eacute;rique : un double enjeu pour les aidants et les m&eacute;diateurs
 
 La formation rel&egrave;ve d’une part, de la **formation des m&eacute;diateurs n&eacute;cessaire pour am&eacute;liorer la professionnalisation du secteur&nbsp; et** **de l’autre, de la&nbsp; formation des personnes au contact du public (agents des op&eacute;rateurs de service public, travailleurs sociaux, m&eacute;diateurs sociaux, b&eacute;n&eacute;voles ou services civiques, etc.)&nbsp; dont la m&eacute;diation num&eacute;rique n’est pas le cœur de m&eacute;tier** et qui se retrouvent de plus en plus sollicit&eacute;s sur ces sujets.
 
