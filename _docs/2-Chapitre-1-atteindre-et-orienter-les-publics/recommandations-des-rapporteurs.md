@@ -4,82 +4,55 @@ category:
 order: 1
 ---
 
-Cette partie présente les recommandations du groupe de travail et précise celles qui sont déjà en cours de concrétisation dans le cadre de la conception - à l'issue de la phase de concertation pour la stratégie - d'une plateforme en ligne à la disposition des collectivités et acteurs locaux.
+Cette partie pr&eacute;sente les recommandations du groupe de travail et pr&eacute;cise celles qui sont d&eacute;j&agrave; en cours de concr&eacute;tisation dans le cadre de la conception - &agrave; l’issue de la phase de concertation pour la strat&eacute;gie - d’une plateforme en ligne &agrave; la disposition des collectivit&eacute;s et acteurs locaux.
 
- 
+### **Satisfaire aux exigences pr&eacute;alables de l’inclusion num&eacute;rique**
 
- **(sous titre 3) Satisfaire aux exigences préalables de l'inclusion numérique**
+Garantir la possibilit&eacute; de pouvoir disposer d’un accompagnement humain pour toutes les personnes qui, pour diverses raisons, ne peuvent pas faire leurs d&eacute;marches en ligne
 
--   **Garantir la possibilité de pouvoir disposer d'un accompagnement humain pour toutes les personnes qui, pour diverses raisons, ne peuvent pas faire leurs démarches en ligne**
+* Garantir l’acc&egrave;s &agrave; du mat&eacute;riel informatique et &agrave; une **connexion internet pour tous.&nbsp;**L’exp&eacute;rimentation du droit au maintien de la connexion Internet &agrave; domicile actuellement pilot&eacute;e par l’Agence du Num&eacute;rique va dans ce sens (Article 108 de la Loi pour une R&eacute;publique Num&eacute;rique).
 
+* **Associer les usagers lors de la conception des services en ligne selon une approche centr&eacute;e sur l’utilisateur** (tester la compr&eacute;hension, la facilit&eacute; de navigation, la simplicit&eacute; d’utilisation, etc.).
 
-- Garantir l'accès à du matériel informatique et à une **connexion internet pour tous***.
+### Faire alliance pour d&eacute;tecter les publics
 
-(_note dans la marge_) *L'expérimentation du droit au maintien de la connexion Internet à domicile actuellement pilotée par l'Agence du Numérique va dans ce sens (Article 108 de la Loi pour une République Numérique).
+* Permettre une meilleure **coordination des diff&eacute;rents intervenants** aupr&egrave;s des publics sur les questions d’inclusion num&eacute;rique &agrave; l’&eacute;chelle des territoires gr&acirc;ce &agrave; l’&eacute;laboration de strat&eacute;gie coh&eacute;rente (les 3 autres groupes de travail proposent &eacute;galement des recommandations en la mati&egrave;re). Il est n&eacute;cessaire d’associer les acteurs de proximit&eacute; implant&eacute;s sur les territoires dans les strat&eacute;gies locales d’inclusion num&eacute;rique car ils nouent des relations de confiance avec les publics qu’ils accompagnent. Certains d’entre eux ont d&eacute;j&agrave; mis en place des dispositifs d’accompagnement des publics sur le num&eacute;rique et leur exp&eacute;rience doit permettre de nourrir les futurs dispositifs qui seront lanc&eacute;s.
 
- 
+> *Un tableau listant les diff&eacute;rents acteurs intervenant aupr&egrave;s des publics permettra &agrave; chaque territoire de les identifier et d’organiser une coordination pour mettre en place une strat&eacute;gie locale d’inclusion num&eacute;rique.*
 
+> *La plateforme en ligne propose un accompagnement &laquo; pas &agrave; pas &raquo; pour &eacute;laborer une strat&eacute;gie locale d’inclusion num&eacute;rique.*
 
-- **Associer les usagers lors de la conception des services en ligne selon une approche centrée sur l'utilisateur **(tester la compréhension, la facilité de navigation, la simplicité d'utilisation, etc.).
+* permettre au sein des collectivit&eacute;s **la coordination des diff&eacute;rents services** sur la th&eacute;matique de l’inclusion num&eacute;rique (CCAS, MSAP, direction informatique, espace num&eacute;rique, etc.).
 
- 
+*Les strat&eacute;gies locales d’inclusion num&eacute;rique d&eacute;j&agrave; mises en place par les collectivit&eacute;s seront document&eacute;es et valoris&eacute;es sur la plateforme en ligne pour permettre un partage efficace de bonnes pratiques.*
 
+* **Proposer un cadre d’engagement collectif notamment pour les op&eacute;rateurs int&eacute;grant :**
 
-
-**(sous titre 3) Faire alliance pour détecter les publics **
-
-- Permettre une meilleure **coordination des différents intervenants** auprès des publics sur les questions d'inclusion numérique à l'échelle des territoires grâce à l'élaboration de stratégie cohérente*. Il est nécessaire d'associer les acteurs de proximité implantés sur les territoires dans les stratégies locales d'inclusion numérique car ils nouent des relations de confiance avec les publics qu'ils accompagnent. Certains d'entre eux ont déjà mis en place des dispositifs d'accompagnement des publics sur le numérique et leur expérience doit permettre de nourrir les futurs dispositifs qui seront lancés.
-
-
-=> _Un tableau listant les différents acteurs intervenant auprès des publics permettra à chaque territoire de les identifier et d'organiser une coordination pour mettre en place une stratégie locale d'inclusion numérique._
-
-
-=> _La plateforme en ligne propose un accompagnement « pas à pas » pour élaborer une stratégie locale d'inclusion numérique._
-
-
-(note dans la marge) *_ Les 3 autres groupes de travail proposent également des recommandations en la matière._
-
-
--        permettre au sein des collectivités **la coordination des différents services** sur la thématique de l'inclusion numérique (CCAS, MSAP, direction informatique, espace numérique, etc.).
-
-
- =>  _Les stratégies locales d'inclusion numérique déjà mises en place par les collectivités seront documentées et valorisées sur la plateforme en ligne pour permettre un partage efficace de bonnes pratiques._
-
- -        **Proposer un cadre d'engagement collectif notamment pour les opérateurs intégrant :**
-
-
-La mise à disposition des sites "miroir" des démarches numériques ainsi que leurs mises à jour. A l'image de ce que la DGFIP a déjà réalisé avec la mission Société Numérique pour les médiateurs et aidants numériques :[ https://impots.societenumerique.gouv.fr/](https://impots.societenumerique.gouv.fr/)  Ces sites permettent d'accompagner les usagers dans la prise en main des démarches administratives en ligne sans manipuler de vraies données et en sécurisant l'apprentissage.
-
+La mise &agrave; disposition des sites “miroirs” des d&eacute;marches num&eacute;riques ainsi que leurs mises &agrave; jour. A l’image de ce que la DGFIP a d&eacute;j&agrave; r&eacute;alis&eacute; avec la mission Soci&eacute;t&eacute; Num&eacute;rique pour les m&eacute;diateurs et aidants num&eacute;riques :[ https://impots.societenumerique.gouv.fr/](https://impots.societenumerique.gouv.fr/) Ces sites permettent d’accompagner les usagers dans la prise en main des d&eacute;marches administratives en ligne sans manipuler de vraies donn&eacute;es et en s&eacute;curisant l’apprentissage.
 
 La mobilisation et la formation des agents en contact avec le public notamment dans le cadre de la formation continue :
 
+▪ **pour qu’ils soient en capacit&eacute; de faire un premier diagnostic des publics qu’ils accueillent**
 
-▪ **pour qu'ils soient en capacité de faire un premier diagnostic des publics qu'ils accueillent**
+▪ **pour qu’ils les orientent vers des lieux de m&eacute;diation num&eacute;rique**
 
+### **Cr&eacute;er les conditions d’un bon accompagnement des publics les plus &eacute;loign&eacute;s**
 
-▪ **pour qu'ils les orientent vers des lieux de médiation numérique**
+* **Sensibiliser l’ensemble des &eacute;lus et des d&eacute;cideurs sur l’importance de l’inclusion num&eacute;rique** afin de faire &eacute;merger sur tout le territoire ce sujet comme une priorit&eacute; &agrave; la fois de l’action sociale mais aussi du d&eacute;veloppement local.
 
+> =&gt; *Le guide de sensibilisation sera livr&eacute; dans le cadre de la strat&eacute;gie nationale (sur la plateforme en ligne) et mis &agrave; disposition des op&eacute;rateurs de service public, de l’ensemble des agents accueillant du public (CNAF, CNAM, Pole Emploi, Travailleurs sociaux, MSA, etc.)*
 
-**(sous titre 3) Créer les conditions d'un bon accompagnement des publics les plus éloignés**
+* **Pouvoir &eacute;valuer les comp&eacute;tences num&eacute;riques** des personnes afin de pouvoir leur proposer un accompagnement adapt&eacute; et/ou les r&eacute;orienter.
 
--  **Sensibiliser l'ensemble des élus et des décideurs sur l'importance de l'inclusion numérique** afin de faire émerger sur tout le territoire ce sujet comme une priorité à la fois de l'action sociale mais aussi du développement local.
+> =&gt; *Des outils de diagnostic seront recens&eacute;s sur la plateforme pour mutualiser les d&eacute;marches de qualification des comp&eacute;tences de publics.*
 
+* **Fournir des outils aux agents/b&eacute;n&eacute;voles en contact avec les publics** les plus en difficult&eacute; avec le num&eacute;rique pour r&eacute;pondre rapidement &agrave; leurs demandes
 
-=> _Le guide de sensibilisation sera livré dans le cadre de la stratégie nationale (sur la plateforme en ligne) et mis à disposition des opérateurs de service public, de l'ensemble des agents accueillant du public (CNAF, CNAM, Pole Emploi, Travailleurs sociaux, MSA, etc.)_
+> =&gt; *Un kit &laquo; d’intervention rapide &raquo; sera propos&eacute; et enrichi progressivement (&eacute;l&eacute;ments de posture et d’accueil de l’accompagnant, &eacute;l&eacute;ments juridiques &agrave; prendre en compte, maquettes des sites des op&eacute;rateurs de service public permettant &agrave; l’aidant de simuler les d&eacute;marches en ligne sans entrer les donn&eacute;es confidentielles de la personne accompagn&eacute;e, etc.).*
 
--        **Pouvoir évaluer les compétences numériques** des personnes afin de pouvoir leur proposer un accompagnement adapté et/ou les réorienter.
+* **S&eacute;curiser juridiquement** les diff&eacute;rents intervenants aupr&egrave;s des personnes sur les questions de confidentialit&eacute;, de s&eacute;curit&eacute; des donn&eacute;es, de gestion des situations en cas d’erreurs.
 
+* **Donner envie** &agrave; diff&eacute;rents publics de se former &agrave; la ma&icirc;trise des outils num&eacute;riques. =&gt; *Des &eacute;l&eacute;ments pour permettre de montrer l’importance du num&eacute;rique pour diff&eacute;rentes d&eacute;marches (acc&egrave;s aux droits, pratiques professionnelles, loisirs, maintien et d&eacute;veloppement de liens sociaux avec des proches, etc.) seront pr&eacute;sent&eacute;s sur la plateforme.*
+* Evaluer la faisabilit&eacute; du d&eacute;veloppement de **dispositifs d’accompagnements itin&eacute;rants** de types bus d’inclusion num&eacute;rique. Il s’agit gr&acirc;ce &agrave; ces bus d’aller au plus pr&egrave;s des publics dans les territoires les plus &eacute;loign&eacute;s du num&eacute;rique pour combler les distances sociale, g&eacute;ographique et culturelle.
 
-=>  _Des outils de diagnostic seront recensés sur la plateforme pour mutualiser les démarches de qualification des compétences de publics._
-
--        **Fournir des outils aux agents/bénévoles en contact avec les publics** les plus en difficulté avec le numérique pour répondre rapidement à leurs demandes
-
-=>  _Un kit « d'intervention rapide » sera proposé et enrichi progressivement (éléments de posture et d'accueil de l'accompagnant, éléments juridiques à prendre en compte, maquettes des sites des opérateurs de service public permettant à l'aidant de simuler les démarches en ligne sans entrer les données confidentielles de la personne accompagnée, etc.)._
-
- -        **Sécuriser juridiquement** les différents intervenants auprès des personnes sur les questions de confidentialité, de sécurité des données, de gestion des situations en cas d'erreurs.
-
--        **Donner envie** à différents publics de se former à la maîtrise des outils numériques.
-=>  _Des éléments pour permettre de montrer l'importance du numérique pour différentes démarches (accès aux droits, pratiques professionnelles, loisirs, maintien et développement de liens sociaux avec des proches, etc.) seront présentés sur la plateforme._
- -        Evaluer la faisabilité du développement de **dispositifs d'accompagnements itinérants** de types bus d'inclusion numérique. Il s'agit grâce à ces bus d'aller au plus près des publics dans les  territoires les plus éloignés du numérique pour combler les distances sociale, géographique et culturelle.
-
--       Mettre en place un outil permettant aux publics en difficulté mais identifiés comme "autonomisables" d'être orientés dans des lieux de médiation numérique dont la qualité de services est certifiée pour être formés.
+* Mettre en place un outil permettant aux publics en difficult&eacute; mais identifi&eacute;s comme “autonomisables” d’&ecirc;tre orient&eacute;s dans des lieux de m&eacute;diation num&eacute;rique dont la qualit&eacute; de services est certifi&eacute;e pour &ecirc;tre form&eacute;s.
