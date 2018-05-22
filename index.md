@@ -1,5 +1,5 @@
 ---
-title: Stratégie nationale pour un numérique inclusif : le rapport
+title: Stratégie nationale pour un numérique inclusif - le rapport
 ---
 > Bienvenue sur la version en ligne du **rapport sur la mise en oeuvre d'une strat&eacute;gie nationale pour un num&eacute;rique inclusif** remis &agrave; sa demande au **Secr&eacute;taire d'Etat aupr&egrave;s du Premier Ministre, charg&eacute; du num&eacute;rique.**
 
