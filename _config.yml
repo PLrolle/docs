@@ -2,22 +2,22 @@
 # Site
 
 title: Rapport - SNNI
-url: "https://rapport.societenumerique.gouv.fr"
+url: "https://long-pig.cloudvent.net"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: "Rapport de la stratégie nationale pour un numérique inclusif"
-author: "Gouvernement"
-  name: 
-  email: "societenumerique@finances.gouv.fr"
-  twitter: "MissionSoNum"
+description: Product documentation template for Jekyll.
+author:
+  name:
+  email:
+  twitter: # twitter username without the @ symbol
 social:
-  name: "Rapport stratégie nationale pour un numérique inclusif"
-  links: 
-  - "https://rapport.societenumerique.gouv.fr"
+  name: Edition Template
+  links:
+    - https://github.com/CloudCannon/edition-jekyll-template
 
 # -----
 # Build
