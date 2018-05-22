@@ -9,13 +9,13 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: Stratégie nationale pour un numérique inclusif
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: Le rapport de la stratégie nationale pour un numérique inclusif
   links:
     - https://github.com/CloudCannon/edition-jekyll-template
 
