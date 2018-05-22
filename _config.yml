@@ -16,8 +16,7 @@ author: Gouvernement
   twitter: MissionSoNum
 social:
   name: Rapport - stratégie nationale pour un numérique inclusif
-  links:
-    - https://rapport.societenumerique.gouv.fr
+  links: https://rapport.societenumerique.gouv.fr
 
 # -----
 # Build
