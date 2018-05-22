@@ -30,7 +30,7 @@ Des projets relatifs &agrave; l’innovation sociale et au num&eacute;rique &eac
 
 Un contributeur sur la plateforme note que s’il “*faut des m&eacute;diateurs, au-del&agrave; des associations, des personnels des biblioth&egrave;ques qu’il faudra former, pourquoi ne pas utiliser davantage les &eacute;tudiants et les volontaires du service civique ? Nous avons d&eacute;j&agrave; parl&eacute; d’eux pour l’aide &agrave; la lecture, l’aide aux devoirs, pourquoi pas, apr&egrave;s les ambassadeurs de la lecture, des ambassadeurs du num&eacute;rique ?*” Nombre d’autres contributeurs alertent toutefois sur le fait que si les services civiques et b&eacute;n&eacute;voles peuvent participer &agrave; des actions de diagnostic et d’orientation des usagers, les actions d’accompagnement doivent &ecirc;tre a minima encadr&eacute;es par des professionnels form&eacute;s et reconnus.
 
-La complexit&eacute; des demandes qui leur sont adress&eacute;es, les situations personnelles parfois difficiles, comme la gestion appropri&eacute;e des donn&eacute;es personnelles des personnes qu’ils accompagnent, posent avec une acuit&eacute; renouvel&eacute;e la question de la formation des volontaires en service civique et b&eacute;n&eacute;voles. Il conviendrait d’engager \*\*un dialogue pour d&eacute;finir un cadre commun d’action et de cr&eacute;er les conditions de formation de ces personnels \*\*afin de garantir l’efficacit&eacute;, la qualit&eacute; et la s&eacute;curisation de l’acte d’accompagnement au num&eacute;rique.
+La complexit&eacute; des demandes qui leur sont adress&eacute;es, les situations personnelles parfois difficiles, comme la gestion appropri&eacute;e des donn&eacute;es personnelles des personnes qu’ils accompagnent, posent avec une acuit&eacute; renouvel&eacute;e la question de la formation des volontaires en service civique et b&eacute;n&eacute;voles. Il conviendrait d’engager **un dialogue pour d&eacute;finir un cadre commun d’action et de cr&eacute;er les conditions de formation de ces personnel****s** afin de garantir l’efficacit&eacute;, la qualit&eacute; et la s&eacute;curisation de l’acte d’accompagnement au num&eacute;rique.
 
 ### Une charte de l’aidant en r&eacute;ponse au besoin de s&eacute;curisation juridique
 
@@ -79,7 +79,7 @@ Par ailleurs, **l’ouverture possible des services de m&eacute;diation num&eacu
 >
 > * Cr&eacute;er un groupe de travail de suivi pouvant r&eacute;unir la CNSA, la DGFIP, la DGCS, le Syntec Num&eacute;rique, pilot&eacute; par la Mission Soci&eacute;t&eacute; Num&eacute;rique, en lien avec les recommandations de gouvernance formul&eacute;e par le groupe de travail 4.
 
-> **Des m&eacute;diateurs aux aidants num&eacute;riques : qui est en premi&egrave;re ligne aupr&egrave;s des usagers en difficult&eacute; face au num&eacute;rique ? **
+> **Des m&eacute;diateurs aux aidants num&eacute;riques : qui est en premi&egrave;re ligne aupr&egrave;s des usagers en difficult&eacute; face au num&eacute;rique ?&nbsp;**
 >
 >
 > L’acc&egrave;s aux droits via le num&eacute;rique rel&egrave;ve donc de 3 professionnels :
