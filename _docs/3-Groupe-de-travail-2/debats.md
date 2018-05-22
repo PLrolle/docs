@@ -8,7 +8,7 @@ order: 3
 
 La formation rel&egrave;ve d’une part, de la **formation des m&eacute;diateurs n&eacute;cessaire pour am&eacute;liorer la professionnalisation du secteur&nbsp; et** **de l’autre, de la&nbsp; formation des personnes au contact du public (agents des op&eacute;rateurs de service public, travailleurs sociaux, m&eacute;diateurs sociaux, b&eacute;n&eacute;voles ou services civiques, etc.)&nbsp; dont la m&eacute;diation num&eacute;rique n’est pas le cœur de m&eacute;tier** et qui se retrouvent de plus en plus sollicit&eacute;s sur ces sujets.
 
-> *&laquo; Les travailleurs sociaux n’ont pas pour vocation d’&ecirc;tre des formateurs du num&eacute;rique, mais de favoriser l’acc&egrave;s au droit. Cependant les demandes sont de plus en plus nombreuses &agrave; cause de la d&eacute;mat&eacute;rialisation &raquo;&nbsp;*
+> &laquo; Les travailleurs sociaux n’ont pas pour vocation d’&ecirc;tre des formateurs du num&eacute;rique, mais de favoriser l’acc&egrave;s au droit. Cependant les demandes sont de plus en plus nombreuses &agrave; cause de la d&eacute;mat&eacute;rialisation &raquo;&nbsp;
 >
 >
 > ***Louis-Xavier Colas, chef du bureau des professions sociales au minist&egrave;re des affaires sociales***
@@ -17,7 +17,7 @@ Les professionnels dont la m&eacute;diation num&eacute;rique ne constitue pas le
 
 Dans certains cas, les structures d’accueil de publics proposent d&eacute;j&agrave; des formations pour leurs &eacute;quipes afin de permettre leur appropriation des outils num&eacute;riques (parfois sp&eacute;cifiques &agrave; leur structure).
 
-> *&laquo; L’inclusion num&eacute;rique concerne les b&eacute;n&eacute;ficiaires des Restos du Cœur mais aussi les b&eacute;n&eacute;voles. Les Restos sont engag&eacute;s dans un plan de digitalisation lourd et ambitieux : d&eacute;ploiement d’une application d’inscription des personnes pour faciliter et am&eacute;liorer la connaissance des personnes et adapter les actions pour mieux les accompagner. (…) 16 000 b&eacute;n&eacute;voles ont &eacute;t&eacute; form&eacute;s. &raquo; *
+> &laquo; L’inclusion num&eacute;rique concerne les b&eacute;n&eacute;ficiaires des Restos du Cœur mais aussi les b&eacute;n&eacute;voles. Les Restos sont engag&eacute;s dans un plan de digitalisation lourd et ambitieux : d&eacute;ploiement d’une application d’inscription des personnes pour faciliter et am&eacute;liorer la connaissance des personnes et adapter les actions pour mieux les accompagner. (…) 16 000 b&eacute;n&eacute;voles ont &eacute;t&eacute; form&eacute;s. &raquo;
 >
 >
 > ***Louis Cantuel, responsable des relations institutionnelles des Restos du Coeur***
@@ -128,7 +128,7 @@ Il s’agit par ailleurs de d&eacute;passer l’entr&eacute;e par le seul lieu p
 
 De nombreuses r&eacute;f&eacute;rences de technologies et d’initiatives locales ont &eacute;t&eacute; vers&eacute;es au d&eacute;bat et sont consultables sur la plate-forme de concertation.
 
-Le r&eacute;f&eacute;rentiel de service consiste en une **segmentation de l’offre de service en briques de services**, qui peuvent &ecirc;tre rendues par\*\* **des pourvoyeurs de services vari&eacute;s. Chaque pourvoyeur de services utilise le r&eacute;f&eacute;rentiel** pour renseigner son offre, qui est une combinaison des diff&eacute;rentes briques de services qu’il propose.\*\*
+Le r&eacute;f&eacute;rentiel de service consiste en une **segmentation de l’offre de service en briques de services**, qui peuvent &ecirc;tre rendues par&nbsp;**des pourvoyeurs de services vari&eacute;s. Chaque pourvoyeur de services utilise le r&eacute;f&eacute;rentiel** pour renseigner son offre, qui est une combinaison des diff&eacute;rentes briques de services qu’il propose.
 
 Les rapporteurs et structures auditionn&eacute;es identifient les pr&eacute;requis suivants :
 
@@ -144,35 +144,40 @@ Les rapporteurs et structures auditionn&eacute;es identifient les pr&eacute;requ
 
 * **penser l’&eacute;volution de ce r&eacute;f&eacute;rentiel dans le temps**, en lien avec les instances de gouvernance recommand&eacute;es par le groupe 4.
 
-(encadr&eacute; t&eacute;moignage) “*Les r&eacute;f&eacute;rentiels savoir-&ecirc;tre / savoir-faire vieillissent vite et sont peu op&eacute;rants. Il faut privil&eacute;gier des r&eacute;f&eacute;rentiels &eacute;clat&eacute;s, dynamiques, qui s’adaptent aux besoins, comme par exemple des r&eacute;f&eacute;rentiels en blocs de comp&eacute;tences &agrave; mettre &agrave; jour pour les m&eacute;diateurs*.” - Alain Ricci, Directeur acad&eacute;mique du num&eacute;rique &eacute;ducatif adjoint de l’Acad&eacute;mie de Cr&eacute;teil.
+> Les r&eacute;f&eacute;rentiels savoir-&ecirc;tre / savoir-faire vieillissent vite et sont peu op&eacute;rants. Il faut privil&eacute;gier des r&eacute;f&eacute;rentiels &eacute;clat&eacute;s, dynamiques, qui s’adaptent aux besoins, comme par exemple des r&eacute;f&eacute;rentiels en blocs de comp&eacute;tences &agrave; mettre &agrave; jour pour les m&eacute;diateurs.&nbsp;
+>
+>
+> ***Alain Ricci, Directeur acad&eacute;mique du num&eacute;rique &eacute;ducatif adjoint de l’Acad&eacute;mie de Cr&eacute;teil.***
 
-*(sous titre 3)* La cr&eacute;ation d’une base de donn&eacute;es et d’une cartographie des services, int&eacute;grable &agrave; divers supports num&eacute;riques et exportable hors-ligne
+### La cr&eacute;ation d’une base de donn&eacute;es et d’une cartographie des services, int&eacute;grable &agrave; divers supports num&eacute;riques et exportable hors-ligne
 
 Une hypoth&egrave;se de travail &eacute;voqu&eacute;e lors des auditions est d’adosser au travail de r&eacute;f&eacute;rencement des services de m&eacute;diation num&eacute;rique l’am&eacute;lioration des outils cartographiques. En effet, **l’ambition de disposer d’outils de cartographie &agrave; jour et pr&eacute;cis a &eacute;t&eacute; l’un des principaux enjeux &eacute;voqu&eacute;s lors de r&eacute;flexion collective**, tant de la part de collectivit&eacute;s, disposant de cartographies partielles ou initiant une telle d&eacute;marche, que des op&eacute;rateurs de services publics auditionn&eacute;s comme la CNAM ou P&ocirc;le Emploi. Ceux-ci ne disposent pas toujours d’une visibilit&eacute; exhaustive des lieux de m&eacute;diation ou de culture num&eacute;rique sur leur territoire ni des comp&eacute;tences disponibles dans ces lieux.
 
-Plusieurs initiatives nationales de r&eacute;f&eacute;rencement ont pu voir le jour\*. Ces initiatives co-existent aux c&ocirc;t&eacute;s d’initiatives locales (M&eacute;tropole de Grenoble, D&eacute;partement du Puy-de-D&ocirc;me) souvent davantage utilis&eacute;es par les b&eacute;n&eacute;ficiaires car plus r&eacute;guli&egrave;rement mises &agrave; jour.
+Plusieurs initiatives nationales de r&eacute;f&eacute;rencement ont pu voir le jour. Ces initiatives co-existent aux c&ocirc;t&eacute;s d’initiatives locales (M&eacute;tropole de Grenoble, D&eacute;partement du Puy-de-D&ocirc;me) souvent davantage utilis&eacute;es par les b&eacute;n&eacute;ficiaires car plus r&eacute;guli&egrave;rement mises &agrave; jour.
 
-\_(note dans marge) \*\_netpublic.fr et mediation-numerique.fr
+> Force est de constater que plusieurs initiatives ont &eacute;t&eacute; prises comme souvent en mati&egrave;re de cartographie d’acteurs. En plus de re-cr&eacute;er la roue, cela pose le probl&egrave;me de l’interaction entres les bases de donn&eacute;es. C’est ainsi que nous retrouvons avec des situations o&ugrave; la ville, le d&eacute;partement et la r&eacute;gion vont avoir leurs propres donn&eacute;es.&nbsp;
+>
+>
+> ***Drakone, contributeur sur la plateforme***
 
-(*t&eacute;moignage*) *&laquo; Force est de constater que plusieurs initiatives ont &eacute;t&eacute; prises comme souvent en mati&egrave;re de cartographie d’acteurs. En plus de re-cr&eacute;er la roue, cela pose le probl&egrave;me de l’interaction entres les bases de donn&eacute;es. C’est ainsi que nous retrouvons avec des situations o&ugrave; la ville, le d&eacute;partement et la r&eacute;gion vont avoir leurs propres donn&eacute;es.” – Drakone, contributeur sur la plateforme*
-
-La **visibilit&eacute; de l’offre d’accompagnement** sur un territoire tient souvent &agrave; la volont&eacute; des collectivit&eacute;s ou des acteurs de la m&eacute;diation num&eacute;rique de s’organiser pour r&eacute;f&eacute;rencer les lieux d’accompagnement existant sur un territoire. Les pr&eacute;requis pour que les efforts des acteurs ne soient pas redondants et que les synergies entre d&eacute;marches soient favoris&eacute;es sont doubles : une **coordination &agrave; diff&eacute;rents &eacute;chelons de r&eacute;f&eacute;rencement territorial** pour faciliter les boucles d’am&eacute;lioration et d’enrichissement et\*\* un standard commun\*\* pour les bases de donn&eacute;es. Il est souvent remont&eacute; que **la structuration des donn&eacute;es &agrave; collecter devait &ecirc;tre trait&eacute;e de mani&egrave;re prioritaire**, avant de raisonner en termes d’interface graphique de l’outil cartographique. Les donn&eacute;es collect&eacute;es seront le mat&eacute;riau permettant de constituer une cartographie nationale et les ressources pertinentes, sous une forme “APIsable”. Il s’agit **d’utiliser une base de donn&eacute;e ouverte et interop&eacute;rable** pour mutualiser les efforts.
+La **visibilit&eacute; de l’offre d’accompagnement** sur un territoire tient souvent &agrave; la volont&eacute; des collectivit&eacute;s ou des acteurs de la m&eacute;diation num&eacute;rique de s’organiser pour r&eacute;f&eacute;rencer les lieux d’accompagnement existant sur un territoire. Les pr&eacute;requis pour que les efforts des acteurs ne soient pas redondants et que les synergies entre d&eacute;marches soient favoris&eacute;es sont doubles : une **coordination &agrave; diff&eacute;rents &eacute;chelons de r&eacute;f&eacute;rencement territorial** pour faciliter les boucles d’am&eacute;lioration et d’enrichissement et **un standard commun** pour les bases de donn&eacute;es. Il est souvent remont&eacute; que **la structuration des donn&eacute;es &agrave; collecter devait &ecirc;tre trait&eacute;e de mani&egrave;re prioritaire**, avant de raisonner en termes d’interface graphique de l’outil cartographique. Les donn&eacute;es collect&eacute;es seront le mat&eacute;riau permettant de constituer une cartographie nationale et les ressources pertinentes, sous une forme “APIsable”. Il s’agit **d’utiliser une base de donn&eacute;e ouverte et interop&eacute;rable** pour mutualiser les efforts.
 
 Par ailleurs, il s’agit de construire un r&eacute;f&eacute;rentiel qui prend en compte la **grande diversit&eacute; des pourvoyeurs de services d’accompagnement au num&eacute;rique**. Aujourd’hui, les prescripteurs tels que les collectivit&eacute;s tendent &agrave; se r&eacute;f&eacute;rer aux acteurs d&eacute;j&agrave; bien identifi&eacute;s du territoire plut&ocirc;t qu’&agrave; des acteurs r&eacute;f&eacute;renc&eacute;s mais avec lesquels ils entretiennent moins de contacts. Cela tend &agrave; accentuer la pression sur des acteurs dont les capacit&eacute;s d’accueil sont &agrave; moyens constants, d&eacute;j&agrave; satur&eacute;es. Certains lieux d’accueil des usagers ne souhaitent ainsi pas &ecirc;tre r&eacute;f&eacute;renc&eacute;s. Cela tend &eacute;galement &agrave; freiner l’&eacute;mergence d’autres acteurs agissant sur des logiques diff&eacute;rentes, **soit de services num&eacute;riques &agrave; la personne, soit ex-situ** (&agrave; l’instar de *Mon Assistant num&eacute;rique*, auditionn&eacute; par le groupe de travail 3), **soit de services d’accompagnement cibl&eacute; sur le “faire pour” un usager sur une proc&eacute;dure donn&eacute;e**.
 
-Le r&eacute;f&eacute;rentiel national commun de l’accompagnement au num&eacute;rique vise en outre &agrave; s’articuler avec des m&eacute;canismes de **labellisation qualit&eacute; \*\*existants tels que le ch&egrave;que culture num&eacute;rique APTIC\* d&eacute;velopp&eacute; par M&eacute;dias-Cit&eacute; ou le label Marianne. La p&eacute;rennit&eacute; et l’efficacit&eacute; dans le temps de la d&eacute;marche de r&eacute;f&eacute;rencement de services dans les territoires d&eacute;pendra &eacute;galement des \*\*m&eacute;canismes d’actualisation du r&eacute;f&eacute;rencement pr&eacute;vus par la gouvernance nationale et territoriale du dispositif** (travaill&eacute;e par le groupe 4).
+Le r&eacute;f&eacute;rentiel national commun de l’accompagnement au num&eacute;rique vise en outre &agrave; s’articuler avec des m&eacute;canismes de **labellisation qualit&eacute; existants tels que le [ch&egrave;que culture num&eacute;rique APTIC d&eacute;velopp&eacute; par M&eacute;dias-Cit&eacute; ](http://www.aptic.fr){: target="_blank"}ou le label Marianne. La p&eacute;rennit&eacute; et l’efficacit&eacute; dans le temps de la d&eacute;marche de r&eacute;f&eacute;rencement de services dans les territoires d&eacute;pendra &eacute;galement des m&eacute;canismes d’actualisation du r&eacute;f&eacute;rencement pr&eacute;vus par la gouvernance nationale et territoriale du dispositif** (travaill&eacute;e par le groupe 4).
 
-*(note de bas de page)\**[ www.aptic.fr](http://www.aptic.fr)
-
-De plus, les participants et auditionn&eacute;s ont not&eacute; l’importance d’**adosser ce travail de r&eacute;f&eacute;rencement aux donn&eacute;es d&eacute;j&agrave; disponibles dans le cadre de l’ouverture des donn&eacute;es publiques**. Par exemple, le bureau du livre du Minist&egrave;re de la Culture a rappel&eacute; lors de son audition que \*\*l’observatoire des biblioth&egrave;ques \*\*r&eacute;colte tous les ans des centaines d’indicateurs de suivi de l’activit&eacute; et de l’&eacute;quipement num&eacute;rique des 16 500 biblioth&egrave;ques et points d’acc&egrave;s au livre.
+De plus, les participants et auditionn&eacute;s ont not&eacute; l’importance d’**adosser ce travail de r&eacute;f&eacute;rencement aux donn&eacute;es d&eacute;j&agrave; disponibles dans le cadre de l’ouverture des donn&eacute;es publiques**. Par exemple, le bureau du livre du Minist&egrave;re de la Culture a rappel&eacute; lors de son audition que **l’observatoire de la lecture publique** r&eacute;colte tous les ans des centaines d’indicateurs de suivi de l’activit&eacute; et de l’&eacute;quipement num&eacute;rique des 16 500 biblioth&egrave;ques et points d’acc&egrave;s au livre.
 
 La question de l’utilisateur final de ces cartographies se pose &eacute;galement.
 
-*(encadr&eacute; t&eacute;moignage) \_“\_Il s’av&egrave;re que cette cartographie devient plus que n&eacute;cessaire aussi bien pour le grand public que pour les travailleurs sociaux qui souhaitent adresser leurs ayants-droits vers des structures sp&eacute;cialis&eacute;es (quand elles existent sur les territoires) plus &agrave; m&ecirc;me qu’eux pour traiter les questions d’ordre technique pos&eacute;es par l’e-administration (cr&eacute;ation de boite mail, recherches d’emploi, …).*” - Gilles Massini, M&eacute;tropole de Bordeaux
+> Il s’av&egrave;re que cette cartographie devient plus que n&eacute;cessaire aussi bien pour le grand public que pour les travailleurs sociaux qui souhaitent adresser leurs ayants-droits vers des structures sp&eacute;cialis&eacute;es (quand elles existent sur les territoires) plus &agrave; m&ecirc;me qu’eux pour traiter les questions d’ordre technique pos&eacute;es par l’e-administration (cr&eacute;ation de boite mail, recherches d’emploi, …)
+>
+>
+> ***Gilles Massini, M&eacute;tropole de Bordeaux***
 
 Il appara&icirc;t donc d’abord important de **concevoir un futur outil &agrave; destination des professionnels du terrain, comme interface d’orientation pour les publics &eacute;loign&eacute;s du num&eacute;rique.**
 
-*(sous titre 3)* Les outils de diagnostic et d’&eacute;valuation des comp&eacute;tences
+### Les outils de diagnostic et d’&eacute;valuation des comp&eacute;tences
 
 Afin d’accompagner les publics au mieux, il est n&eacute;cessaire de partir d’une &eacute;valuation pr&eacute;cise de leurs comp&eacute;tences. Cette &eacute;valuation pourra mobiliser des outils de diagnostic en amont de l’accompagnement. Elle pourra ensuite &ecirc;tre compl&eacute;t&eacute;e par une mesure du niveau de comp&eacute;tences en aval de l’accompagnement gr&acirc;ce &agrave; l’outil PIX. Ces m&eacute;thodes et outils sont &eacute;videmment adoss&eacute;s &agrave; un r&eacute;f&eacute;rentiel de comp&eacute;tences coh&eacute;rent.
 
@@ -180,24 +185,19 @@ En l’&eacute;tat des avanc&eacute;es en la mati&egrave;re, il para&icirc;t uti
 
 Ce r&eacute;f&eacute;rentiel de base int&eacute;gr&eacute; au r&eacute;f&eacute;rentiel de comp&eacute;tences plus large est essentiel pour penser l’accompagnement dans des parcours progressifs ne visant pas uniquement un rattrapage perp&eacute;tuel.
 
-**Ainsi, le r&eacute;f&eacute;rentiel \*\*en mati&egrave;re d’inclusion num&eacute;rique \*\*s’articule autour d’un noyau de comp&eacute;tences** qui sont les pr&eacute;-requis (savoir une utiliser une souris, allumer son appareil, etc.) et un ensemble de **comp&eacute;tences** **num&eacute;riques** **de base**, adoss&eacute; au r&eacute;f&eacute;rentiel europ&eacute;en de comp&eacute;tences num&eacute;riques (DIGICOMP) :
+**Ainsi, le r&eacute;f&eacute;rentiel en mati&egrave;re d’inclusion num&eacute;rique s’articule autour d’un noyau de comp&eacute;tences** qui sont les pr&eacute;-requis (savoir une utiliser une souris, allumer son appareil, etc.) et un ensemble de **comp&eacute;tences** **num&eacute;riques** **de base**, adoss&eacute; au r&eacute;f&eacute;rentiel europ&eacute;en de comp&eacute;tences num&eacute;riques (DIGCOMP) :
 
 * naviguer sur internet (information & donn&eacute;es)
-
 * se servir d’un email (communication & collaboration)
-
 * conna&icirc;tre les bases de la bureautique (cr&eacute;ation de contenu)
-
 * avoir conscience des droits et devoirs num&eacute;riques (protection et s&eacute;curit&eacute;)
 * et prendre en main l’e-administration (environnement num&eacute;rique)
 
 Pour chaque comp&eacute;tence de base, des r&eacute;sultats attendus observables et des crit&egrave;res d’&eacute;valuations sont d&eacute;finis.
 
-(encadr&eacute; projet )**\_ \_L’association Fr&eacute;quence Ecoles\* con&ccedil;oit des dispositifs de formation innovants** fl&eacute;chant vers le r&eacute;f&eacute;rentiel de comp&eacute;tences PIX et celui des Comp&eacute;tences Psychosociales de l’OMS, et permettant le **d&eacute;veloppement des capacit&eacute;s num&eacute;riques et m&eacute;diatiques des usagers**. Ce mat&eacute;riel p&eacute;dagogique, transportable et r&eacute;plicable, est produit en licence ouverte. Un passeport des comp&eacute;tences num&eacute;riques doit permettre, par ailleurs, aux usagers de visualiser leurs progressions.
+> **L’association [Fr&eacute;quence Ecoles&nbsp;](https://www.frequence-ecoles.org){: target="_blank"}con&ccedil;oit des dispositifs de formation innovants** fl&eacute;chant vers le r&eacute;f&eacute;rentiel de comp&eacute;tences PIX et celui des Comp&eacute;tences Psychosociales de l’OMS, et permettant le **d&eacute;veloppement des capacit&eacute;s num&eacute;riques et m&eacute;diatiques des usagers**. Ce mat&eacute;riel p&eacute;dagogique, transportable et r&eacute;plicable, est produit en licence ouverte. Un passeport des comp&eacute;tences num&eacute;riques doit permettre, par ailleurs, aux usagers de visualiser leurs progressions.
 
-*(note dans la marge)* \* www.frequence-ecoles.org
-
-*(sous titre 3) **La labellisation des dispositifs reconnus d’int&eacute;r&ecirc;t collectif pour l’inclusion num&eacute;rique***
+### La labellisation des dispositifs reconnus d’int&eacute;r&ecirc;t collectif pour l’inclusion num&eacute;rique
 
 Les structures d’accompagnement au num&eacute;rique sont confront&eacute;es &agrave; un enjeu de visibilit&eacute; et de promotion de leurs activit&eacute;s sur leurs territoires: elles ne sont pas toujours identifi&eacute;es par l’ensemble de leur public cible et de leurs partenaires potentiels. Par ailleurs, certains acteurs qui ne sont pas identifi&eacute;s comme des acteurs de l’accompagnement au num&eacute;rique (associations, entreprises, etc) peuvent pourtant avoir un r&ocirc;le important &agrave; jouer pour l’inclusion num&eacute;rique. Les pourvoyeurs de services de m&eacute;diation num&eacute;rique ont &eacute;galement un enjeu fort de qualification de leur offre de service, de d&eacute;monstration de la qualit&eacute; et de l’efficacit&eacute; des actions qu’ils conduisent.
 
