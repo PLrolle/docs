@@ -6,8 +6,10 @@ title: Le rapport
 
 > [**T&eacute;l&eacute;charger la version PDF du rapport**](https://www.societenumerique.gouv.fr)
 
-Co-&eacute;crit de d&eacute;cembre 2017 &agrave; mai 2018 par :
+Co-&eacute;crit par :
 
-Les rapporteurs : Assembl&eacute;e des D&eacute;partements de France, Association des Petites Villes de France, Association des R&eacute;gions de France, F&eacute;d&eacute;ration nationale des collectivit&eacute;s conc&eacute;dantes et r&eacute;gies, Les Interconnect&eacute;s (Association des Communaut&eacute;s de France et France Urbaine), Caisse Nationale des Allocations Familiales, Groupe Caisse des D&eacute;p&ocirc;ts et Consignations, Groupe La Poste, Les Adrets, La MedNum, M&eacute;dias-Cit&eacute;, WeTechCare, Commissariat G&eacute;n&eacute;ral &agrave; l'Egalit&eacute; des Territoires.
+Les rapporteurs :
 
-Et avec l'appui de la [Mission Soci&eacute;t&eacute; Num&eacute;rique](https://www.societenumerique.gouv.fr)
+Assembl&eacute;e des D&eacute;partements de France, Association des Petites Villes de France, Association des R&eacute;gions de France, F&eacute;d&eacute;ration nationale des collectivit&eacute;s conc&eacute;dantes et r&eacute;gies, Les Interconnect&eacute;s (Association des Communaut&eacute;s de France et France Urbaine), Caisse Nationale des Allocations Familiales, Groupe Caisse des D&eacute;p&ocirc;ts et Consignations, Groupe La Poste, Les Adrets, La MedNum, M&eacute;dias-Cit&eacute;, WeTechCare, Commissariat G&eacute;n&eacute;ral &agrave; l'Egalit&eacute; des Territoires.
+
+Et la [Mission Soci&eacute;t&eacute; Num&eacute;rique](https://www.societenumerique.gouv.fr)
