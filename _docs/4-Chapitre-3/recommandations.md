@@ -38,9 +38,7 @@ M&ecirc;me form&eacute;s, il ne faut pas tout attendre des interlocuteurs nature
 
 Des ressources disponibles pour la m&eacute;diation num&eacute;rique ne semblent pas utilis&eacute;es &agrave; leur plein potentiel (les fonds europ&eacute;ens par exemple). La valorisation et la communication des opportunit&eacute;s et des bonnes pratiques de mobilisation de ces fonds paraissent essentielles notamment aupr&egrave;s des r&eacute;gions.
 
-```
-    _=> Les strat&eacute;gies locales de mobilisation de ces fonds d&eacute;j&agrave; mises en place par les collectivit&eacute;s seront document&eacute;es et valoris&eacute;es sur la plateforme en ligne pour permettre un partage efficace de bonnes pratiques._
-```
+ecaqze  Les strat&eacute;gies locales de mobilisation de ces fonds d&eacute;j&agrave; mises en place par les collectivit&eacute;s seront document&eacute;es et valoris&eacute;es sur la plateforme en ligne pour permettre un partage efficace de bonnes pratiques._
 
 * (sous proposition) **Faire &eacute;merger de nouvelles ressources financi&egrave;res**
 
