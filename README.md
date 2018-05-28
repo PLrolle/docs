@@ -6,5 +6,5 @@ Retrouvez ici le rapport et les recommandations de la stratégie nationale pour 
 
 # Edition
 
-Le rapport a été publié à partir d'une version d'Edition [CloudCannon](http://cloudcannon.com/), CMS Jekyll.
+Le rapport a été publié à partir d'une version d'Edition par [CloudCannon](http://cloudcannon.com/), CMS Jekyll.
 
