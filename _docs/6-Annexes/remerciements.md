@@ -4,112 +4,90 @@ category: Annexes
 order: 2
 ---
 
+Les rapporteurs et la Mission Soci&eacute;t&eacute; Num&eacute;rique remercient chaleureusement les personnes auditionn&eacute;es, les contributeurs de la plateforme de concertation ainsi que les animateurs et participants des 25 ateliers organis&eacute;s dans les territoires.
 
-Les rapporteurs et la Mission Société Numérique remercient chaleureusement les personnes auditionnées, les contributeurs de la plateforme de concertation ainsi que les animateurs et participants des 25 ateliers organisés dans les territoires.
-
- 
-
-Ils remercient aussi la **députée Dominique David** et Paul Christophle pour son engagement à leurs côtés.
-
+Ils remercient aussi la **d&eacute;put&eacute;e Dominique David** et Paul Christophle pour son engagement &agrave; leurs c&ocirc;t&eacute;s.
 
 # La mission
 
-
 #### Groupe de travail 1 : Atteindre et orienter les publics cibles
 
- ![](https://societenumerique.gouv.fr/wp-content/uploads/2018/01/logosgt1-1-1024x158.png)
+![](https://societenumerique.gouv.fr/wp-content/uploads/2018/01/logosgt1-1-1024x158.png)
 
-Assemblée des Départements de France avec le soutien des Départements Pyrénées-Atlantiques , Gironde et Calvados
+**Assembl&eacute;e des D&eacute;partements de France,** Jean-Pierre Quignaux<br>**Conseil d&eacute;partemental des Pyr&eacute;n&eacute;es-Atlantiques,** Amalia Martinez**,****<br>Conseil d&eacute;partemental de la Gironde,** Fabienne Guib&eacute;**<br>Conseil d&eacute;partemental du Calvados,** Am&eacute;lie Brun
 
-[http://www.departements.fr/](http://www.departements.fr/)
+* [http://www.departements.fr/](http://www.departements.fr/)
+* [www.le64.fr/](http://www.le64.fr/)
+* [https://www.gironde.fr/](https://www.gironde.fr/)
+* [https://www.calvados.fr/](https://www.calvados.fr/)
 
-[www.le64.fr/](http://www.le64.fr/)
+**Caisse Nationale d’Allocations Familiales,&nbsp;**C&eacute;cile Chaudier et Aur&eacute;lie Tricot
 
-[https://www.gironde.fr/](https://www.gironde.fr/)
+* [http://www.caf.fr/](http://www.caf.fr/)
 
-[https://www.calvados.fr/](https://www.calvados.fr/)
+**ADRETS – Association pour le D&eacute;veloppement en R&eacute;seau des Territoires et des Services,&nbsp;**Adrien Devos et Guillaume Doukhan
 
- 
+* [https://adrets-asso.fr](https://adrets-asso.fr)
 
-Caisse Nationale d'Allocations Familiales
-
-[http://www.caf.fr/](http://www.caf.fr/)
-
- 
-
-ADRETS – Association pour le Développement en Réseau des Territoires et des Services
-
-[https://adrets-asso.fr](https://adrets-asso.fr)
-
- 
- WeTechCare
+**WeTechCare,&nbsp;**C&eacute;cilia Germain-Creuzet
 
 [http://wetechcare.org/](http://wetechcare.org/)
 
- 
-
-Fédération Nationale des Collectivités Concédantes et Régies
+**F&eacute;d&eacute;ration Nationale des Collectivit&eacute;s Conc&eacute;dantes et R&eacute;gies,&nbsp;**Violaine Lanneau et Christophe Mahais
 
 [www.fnccr.asso.fr/](http://www.fnccr.asso.fr/)
 
+#### Groupe de travail 2 : Structurer l’offre de m&eacute;diation et de formation au num&eacute;rique
 
-#### Groupe de travail 2 : Structurer l'offre de médiation et de formation au numérique
+![](https://societenumerique.gouv.fr/wp-content/uploads/2018/01/logosGT2-768x173.png)
 
- ![](https://societenumerique.gouv.fr/wp-content/uploads/2018/01/logosGT2-768x173.png)
+**Association des Petites Villes de France** avec le soutien de la mairie de Trilport, Jean-Michel Morer (Maire de Trilport); Alain Ricci et Atte Oksanen
 
-Association des Petites Villes de France avec le soutien de la mairie de Trilport
+* [https://www.apvf.asso.fr/](https://www.apvf.asso.fr/)
+* http://www.trilport.fr/
 
-[https://www.apvf.asso.fr/](https://www.apvf.asso.fr/)
+**Coop&eacute;rative La MedNum,&nbsp;**Emma Ghariani, Julie Teissedre
 
-[http://www.trilport.fr/](http://www.trilport.fr/)
+* [https://lamednum.coop/](https://lamednum.coop/)
 
-
-Coopérative La MedNum
-
-[https://lamednum.coop/](https://lamednum.coop/)
-
- 
-#### Groupe de travail 3 : Consolidation économique et augmentation de la capacité d'action des acteurs
+#### Groupe de travail 3 : Consolidation &eacute;conomique et augmentation de la capacit&eacute; d’action des acteurs
 
 ![](https://societenumerique.gouv.fr/wp-content/uploads/2018/05/logosGT3.png)
- 
-Association des Régions de France
 
-[http://regions-france.org/](http://regions-france.org/)
- 
-Région Hauts-de-France
+**Association des R&eacute;gions de France,&nbsp;**Jean-Philippe Berton
 
-[http://www.hautsdefrance.fr/](http://www.hautsdefrance.fr/)
+* [http://regions-france.org/](http://regions-france.org/)
 
- Médias-Cité
+**R&eacute;gion Hauts-de-France,&nbsp;**Isabelle Zeller
 
-[https://medias-cite.coop/](https://medias-cite.coop/)
+* [http://www.hautsdefrance.fr/](http://www.hautsdefrance.fr/)
 
-Caisse des Dépôts et Consignations
+**M&eacute;dias-Cit&eacute;,&nbsp;**G&eacute;rald Elbaze, Lisa Paraboschi, B&eacute;n&eacute;dicte Monjalon
 
-[http://www.caissedesdepots.fr/](http://www.caissedesdepots.fr/)
+* [https://medias-cite.coop/](https://medias-cite.coop/)
 
- 
-#### Groupe de travail 4 : Modèles de gouvernance et stratégies locales inspirantes
+**Caisse des D&eacute;p&ocirc;ts et Consignations,&nbsp;**Nicolas Tucart
+
+* [http://www.caissedesdepots.fr/](http://www.caissedesdepots.fr/)
+
+#### Groupe de travail 4 : Mod&egrave;les de gouvernance et strat&eacute;gies locales inspirantes
 
 ![](https://societenumerique.gouv.fr/wp-content/uploads/2018/01/logosGT4-1024x186.png)
- 
-Les Interconnectés, avec l'Association des Communautés de France et France Urbaine
 
-[http://www.interconnectes.com/](http://www.interconnectes.com/)
+**Les Interconnect&eacute;s, avec l’Association des Communaut&eacute;s de France et France Urbaine,&nbsp;**C&eacute;line Colucci
 
-La Poste
+* [http://www.interconnectes.com/](http://www.interconnectes.com/)
 
-[https://www.laposte.fr](https://www.laposte.fr)
+**La Poste,&nbsp;**Anne-Marie Jean, Philippe R&eacute;gnard et Eliott Inguenaud
 
-Commissariat Général à l'Egalité des Territoires
+* [https://www.laposte.fr](https://www.laposte.fr)
 
-[http://www.cget.gouv.fr/](http://www.cget.gouv.fr/)
+**Commissariat G&eacute;n&eacute;ral &agrave; l’Egalit&eacute; des Territoires,&nbsp;**Anne Faure
 
- 
+* [http://www.cget.gouv.fr/](http://www.cget.gouv.fr/)
 
-Les rapporteurs ont travaillé avec le soutien de la Mission Société Numérique, pôle de l'Agence du Numérique
+**Les rapporteurs ont travaill&eacute; avec le soutien de la Mission Soci&eacute;t&eacute; Num&eacute;rique, p&ocirc;le de l’Agence du Num&eacute;rique**
 
 [https://societenumerique.gouv.fr](https://societenumerique.gouv.fr)
 
-Margot Aptel, Bérengère Aujard, Frdéric Bardolle, Alexandre Bigot-Verdier, Marine Jouan, Orianne Ledroit, Pierre-Louis Rolle 
+**Margot Aptel, B&eacute;reng&egrave;re Aujard, Fr&eacute;d&eacute;ric Bardolle, Alexandre Bigot-Verdier, Marine Jouan, Orianne Ledroit, Pierre-Louis Rolle**
