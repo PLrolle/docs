@@ -50,7 +50,7 @@ Cette place a &eacute;t&eacute; sujette au d&eacute;bat pendant des auditions et
 
 Par ailleurs, l’Etat est **garant de l’&eacute;galit&eacute; des territoires et des citoyens**. Pour nombre de contributeurs, le r&ocirc;le de l’Etat est donc d’encourager des m&eacute;thodes contributives : donner la main aux territoires locaux pour que les initiatives locales se diffusent et qu’elles ne jouent pas les unes contre les autres (t&eacute;moignage d’Alexandre Rousselet du R&eacute;seau fran&ccedil;ais des fablabs)
 
-> &nbsp;*&laquo; on a plus besoin d’un Etat animateur qui va faire en sorte que l’&eacute;change s’organise que d’un Etat prescripteur &raquo; - Michel Briand, La Coop des communs*
+> &nbsp;&laquo; On a plus besoin d’un Etat animateur qui va faire en sorte que l’&eacute;change s’organise que d’un Etat prescripteur &raquo; - **Michel Briand, La Coop des communs**
 
 ### L’&eacute;mergence des &laquo; hubs &raquo;, interfaces des territoires et instances de relai entre le national et le local, &agrave; accompagner
 
