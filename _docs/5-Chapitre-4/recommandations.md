@@ -67,11 +67,9 @@ Cette mission de pilotage pourrait être incarnée par des structures intermédi
 
 ### L'échelon local de mise en œuvre
 
- 
 
 A l'échelle locale, la structuration de la gouvernance reposera sur une libre émergence des acteurs. La préconisation du groupe de travail est de ne pas créer d'instance ; une autonomie sera laissée aux leaders naturels des bassins de vie qui seront outillés pour mettre en place des stratégies locales (fiches techniques, matrice des acteurs à mobiliser, duplication de bonnes pratiques).
 
- 
 
 Pour autant, le groupe de travail a défini certaines missions (non exhaustives) qui pourraient être attribuées à cet échelon :
 
@@ -92,193 +90,16 @@ Rendre compte au sein des instances intermédiaires des enjeux locaux
 Les bonnes pratiques identifiées lors de la concertation en matière d'inclusion numérique et qui figurent dans cette synthèse seront renseignées sur la plateforme en ligne issue de la stratégie afin de permettre leur duplication dans les territoires.
 
  
+### L'articulation des trois échelons**
 
+SCHEMA
  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-• (sous titre 3) **L'articulation des trois échelons**
-
- (schéma que tu avais déjà fait)
-
- A horizontaliser
-
- 
-
- 
-
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td rowspan="2" >
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td rowspan="3" colspan="2" >
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td rowspan="3" colspan="2" >
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td colspan="2" >
-   </td>
-   <td rowspan="2" colspan="2" >
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-    • (sous titre 3) **Proposer un évènement national de lancement de la gouvernance **
-
-
-     
+### Proposer un évènement national de lancement de la gouvernance 
 
 Les rapporteurs préconisent la tenue chaque année d'un événement dédié à l'inclusion et aux cultures numériques pour croiser les approches et les expériences et faire vivre cette dynamique collective_. _Cet événement pourrait avoir lieu pour la première année, en 2018, lors  de l'édition  de « Numérique en commun », en cours de conception et prévu à Nantes, les 13 et 14 septembre prochain.
 
+### Mettre en oeuvre des « territoires pilotes »
 
-     
-
-
-    _•_ (sous titre 3) **Mettre en oeuvre des « territoires pilotes »**
-
- 
 
 Il est enfin préconisé de mettre en place un dispositifs de « territoires pilotes » dont l'objectif sera d'accélérer la mise en œuvre de stratégies d'inclusion numérique dans des territoires spécifiques afin d'expérimenter le modèle de gouvernance proposée et de construire les outils nécessaires à l'élaboration de la stratégie.
 
-
-<!-- GD2md-html version 1.0β11 -->
