@@ -9,8 +9,8 @@ order: 4
 
 
 * D'assurer un pilotage national avec un portage politique fort
-*`De laisser place à l'émergence au niveau local
-*`De structurer un niveau intermédiaire relai entre ces deux premiers échelons
+* De laisser place à l'émergence au niveau local
+* De structurer un niveau intermédiaire relai entre ces deux premiers échelons
 
              
 
