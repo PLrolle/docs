@@ -38,59 +38,51 @@ M&ecirc;me form&eacute;s, il ne faut pas tout attendre des interlocuteurs nature
 
 Des ressources disponibles pour la m&eacute;diation num&eacute;rique ne semblent pas utilis&eacute;es &agrave; leur plein potentiel (les fonds europ&eacute;ens par exemple). La valorisation et la communication des opportunit&eacute;s et des bonnes pratiques de mobilisation de ces fonds paraissent essentielles notamment aupr&egrave;s des r&eacute;gions.
 
-ecaqze  Les strat&eacute;gies locales de mobilisation de ces fonds d&eacute;j&agrave; mises en place par les collectivit&eacute;s seront document&eacute;es et valoris&eacute;es sur la plateforme en ligne pour permettre un partage efficace de bonnes pratiques._
+> Les strat&eacute;gies locales de mobilisation de ces fonds d&eacute;j&agrave; mises en place par les collectivit&eacute;s seront document&eacute;es et valoris&eacute;es sur la plateforme en ligne pour permettre un partage efficace de bonnes pratiques.
 
-* (sous proposition) **Faire &eacute;merger de nouvelles ressources financi&egrave;res**
+#### **Faire &eacute;merger de nouvelles ressources financi&egrave;res**
 
 Pour d&eacute;multiplier l’impact des fonds disponibles, leur rassemblement au sein d’un dispositif de type “Fonds de soutien pour l’inclusion num&eacute;rique” est propos&eacute;e, permettant d’&eacute;largir le spectre des payeurs de services de m&eacute;diation (op&eacute;rateurs de service public et secteur priv&eacute;).
 
-*PAS de fl&egrave;che ni d’encadr&eacute;*
-
-* (sous proposition) **Faciliter l’acc&egrave;s aux moyens financiers**
+#### **Faciliter l’acc&egrave;s aux moyens financiers**
 
 Pour permettre aux acteurs de d&eacute;penser moins d’&eacute;nergie dans la recherche de fonds, il est pr&eacute;conis&eacute; &agrave; la fois de faciliter l’acc&egrave;s aux fonds (large publicisation et limitation du nombre de d&eacute;marches via le processus de Fonds de soutien) et de permettre le d&eacute;veloppement de services partag&eacute;s d’ing&eacute;nierie financi&egrave;re entre les acteurs.
 
-*PAS de fl&egrave;che ni d’encadr&eacute;*
-
-* (sous proposition) **Faciliter la meilleure r&eacute;partition des financements entre les territoires**
+#### **Faciliter la meilleure r&eacute;partition des financements entre les territoires**
 
 Les territoires sont in&eacute;galement touch&eacute;s par l’urgence num&eacute;rique. Un m&eacute;canisme de p&eacute;r&eacute;quation est recommand&eacute; afin de favoriser le juste partage des financements entre les territoires.
 
-• (sous titre 3) **Adapter les v&eacute;hicules pour financer efficacement**
+### **Adapter les v&eacute;hicules pour financer efficacement**
 
-*PAS de fl&egrave;che ni d’encadr&eacute;*
+#### **Cr&eacute;er un m&eacute;canisme contributif de financement de la m&eacute;diation num&eacute;rique,**
 
-* (sous proposition) **Cr&eacute;er un m&eacute;canisme contributif de financement de la m&eacute;diation num&eacute;rique,** dit de “Fonds de soutien” favorisant les effets de levier
+dit de “Fonds de soutien” favorisant les effets de levier
 
 Ce m&eacute;canisme permettrait de faire converger des fonds &eacute;manants de collectivit&eacute;s territoriales, de services de l’Etat, de l’Union Europ&eacute;enne, d’op&eacute;rateurs de service public et du secteur priv&eacute;. Ce dispositif permettrait d’&eacute;viter la dispersion et favoriserait les d&eacute;versements sur les cibles prioritaires.
 
-*PAS de fl&egrave;che ni d’encadr&eacute;*
-
-* (sous proposition) \*\*Soutenir l’&eacute;mergence d’offres r&eacute;pondant aux “urgences num&eacute;riques” \*\*
+#### Soutenir l’&eacute;mergence d’offres r&eacute;pondant aux “urgences num&eacute;riques”
 
 Les urgences num&eacute;riques diagnostiqu&eacute;es nationalement ou territorialement peuvent faire l’objet de d&eacute;versements sp&eacute;cifiques, notamment par le biais de d&eacute;l&eacute;gations de service public.
 
-*PAS de fl&egrave;che ni d’encadr&eacute;*
+#### Soutenir l’amor&ccedil;age, le prototypage et l’essaimage de solutions innovantes permettant d’acc&eacute;l&eacute;rer l’inclusion num&eacute;rique (inter-op&eacute;rables, ouvertes et scalables)
 
-* (sous proposition) \*\*Soutenir l’amor&ccedil;age, le prototypage et l’essaimage de solutions innovantes permettant d’acc&eacute;l&eacute;rer l’inclusion num&eacute;rique \*\*(inter-op&eacute;rables, ouvertes et scalables)
+&nbsp;
 
 Pour faire &eacute;merger une fili&egrave;re int&eacute;gr&eacute;e de m&eacute;diation num&eacute;rique, le soutien &agrave; l’innovation est primordial. Des initiatives de financement d&eacute;di&eacute;s doivent pouvoir &eacute;merger, notamment du processus de Fonds de soutien pour l’inclusion num&eacute;rique. En parall&egrave;le, la diffusion rapide des innovations &eacute;prouv&eacute;es &agrave; l’ensemble de la fili&egrave;re est n&eacute;cessaire.
 
-*PAS de fl&egrave;che ni d’encadr&eacute;*
+#### F**aciliter l’&eacute;mergence d’acteurs capables d’op&eacute;rer des lieux &eacute;quip&eacute;s mais non dot&eacute;s en ressources humaines**.
 
-* (sous proposition) F**aciliter l’&eacute;mergence d’acteurs capables d’op&eacute;rer des lieux &eacute;quip&eacute;s mais non dot&eacute;s en ressources humaines**. Pour cela il conviendrait de creuser les sc&eacute;narios de mise en oeuvre de dispositifs sp&eacute;cifiques (de type affermage, d&eacute;l&eacute;gation de service public, franchise, etc.).
+Pour cela il conviendrait de creuser les sc&eacute;narios de mise en oeuvre de dispositifs sp&eacute;cifiques (de type affermage, d&eacute;l&eacute;gation de service public, franchise, etc.).
 
-*PAS de fl&egrave;che ni d’encadr&eacute;*
+#### **Soutenir le besoin en fonds de roulement des acteurs qui b&eacute;n&eacute;ficient d’aides importantes au versement tardif.**
 
-* (sous proposition) **Soutenir le besoin en fonds de roulement des acteurs qui b&eacute;n&eacute;ficient d’aides importantes au versement tardif.** Pour cela, il conviendrait de rechercher des partenaires de financement ou des sc&eacute;narios de mitigation du risque.
+Pour cela, il conviendrait de rechercher des partenaires de financement ou des sc&eacute;narios de mitigation du risque.
 
-• (sous titre 3) \*\*S’appuyer sur des structures interm&eacute;diaires territoriales \*\*
+### S’appuyer sur des structures interm&eacute;diaires territoriales&nbsp;
 
 Il est sugg&eacute;r&eacute; - pour r&eacute;pondre de fa&ccedil;on satisfaisante aux besoins d’accompagnement des citoyens - le renforcement d’acteurs existants **afin de leur donner une taille critique pour une capacit&eacute; d’action de niveau inter-d&eacute;partemental.**
 
 Le r&ocirc;le de ces acteurs serait principalement :
-
-*ATTENTION ANTONY : il faudrait mettre des tirets devant les paragraphes ci dessous qui &eacute;num&egrave;re des &eacute;l&eacute;ments*
 
 * la mutualisation de la comp&eacute;tence d’ing&eacute;nierie financi&egrave;re visant la mont&eacute;e en puissance des acteurs de terrain (taille critique plus importante pour la mobilisation de fonds en cr&eacute;ant un effet multiplicateur)
 * l’appui &agrave; la formation des m&eacute;diateurs et des agents publics du territoire
@@ -100,14 +92,16 @@ Le r&ocirc;le de ces acteurs serait principalement :
 
 Ce renforcement devra s’appuyer sur des indicateurs d’impact identifi&eacute;s en amont et suivi avec les acteurs. Afin d’identifier ces acteurs existants, le lancement national d’un Appel &agrave; Manifestation d’Int&eacute;r&ecirc;t pourrait &ecirc;tre envisag&eacute;.
 
-• (sous titre 3) **Desserrer la pression r&eacute;glementaire pour favoriser l’innovation sociale**
+### **Desserrer la pression r&eacute;glementaire pour favoriser l’innovation sociale**
 
-*PAS de fl&egrave;che ni d’encadr&eacute;*
+&nbsp;
 
-* (sous proposition) \*\*Pr&eacute;voir un cadre d&eacute;rogatoire &agrave; la n&eacute;cessit&eacute; de cr&eacute;ation de r&eacute;gies de recettes \*\*pour collecter les revenues de m&eacute;diation num&eacute;rique dans les collectivit&eacute;s souhaitant exp&eacute;rimenter de nouveaux services.
+#### Pr&eacute;voir un cadre d&eacute;rogatoire &agrave; la n&eacute;cessit&eacute; de cr&eacute;ation de r&eacute;gies de recettes
 
-*PAS de fl&egrave;che ni d’encadr&eacute;*
+L'objectif est de pouvoir collecter les revenues de m&eacute;diation num&eacute;rique dans les collectivit&eacute;s souhaitant exp&eacute;rimenter de nouveaux services.
 
-* (sous proposition) **Proposer la reconnaissance par la Commission europ&eacute;enne de services de m&eacute;diation num&eacute;rique commerciaux comme Service &Eacute;conomique d’Int&eacute;r&ecirc;t G&eacute;n&eacute;ral**
+#### **Proposer la reconnaissance par la Commission europ&eacute;enne de services de m&eacute;diation num&eacute;rique commerciaux comme Service &Eacute;conomique d’Int&eacute;r&ecirc;t G&eacute;n&eacute;ral**
+
+&nbsp;
 
 La reconnaissance de SEIG rel&egrave;ve de la Commission europ&eacute;enne. L’action de la France en ce sens permettrait de s&eacute;curiser les acteurs de m&eacute;diation num&eacute;rique.
