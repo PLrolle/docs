@@ -12,7 +12,7 @@ order: 4
 
 **H&eacute;bergeur** : M&eacute;dias-Cit&eacute;, 87 Quai des Queyries, 33100 Bordeaux
 
-**Codes sources** : https://github.com/SocieteNumerique/
+**Codes sources** : [https://github.com/SocieteNumerique/](https://github.com/SocieteNumerique/)
 
 **Nous utilisons des logiciels libres** : WordPress, Cloudron, Wekan, Piwik, nodeBB…
 
@@ -26,7 +26,7 @@ La licence de r&eacute;utilisation vous permet de conna&icirc;tre avec pr&eacute
 
 &Agrave; cet &eacute;gard, d&egrave;s lors que vous t&eacute;l&eacute;chargez tout ou partie des documents administratifs mis &agrave; disposition sur ce site, vous vous engagez &agrave; respecter les termes de la licence de r&eacute;utilisation.&nbsp; Par d&eacute;faut, c’est-&agrave;-dire sauf mention contraire, les jeux de donn&eacute;es peuvent &ecirc;tre exploit&eacute;s dans les conditions fix&eacute;es par la Licence Ouverte / Open Licence, que vous pouvez t&eacute;l&eacute;charger ici.
 
-Pourquoi la Licence ouverte 2.0 ? &nbsp;
+## Pourquoi la Licence ouverte 2.0 ? &nbsp;
 
 (Source : blog d’Etalab)
 
