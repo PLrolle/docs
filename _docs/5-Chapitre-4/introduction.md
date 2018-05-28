@@ -15,13 +15,9 @@ Le Commissariat Général à l'Egalité des Territoires (CGET), Les Interconnect
 ## Les objectifs de travail :
 
 
-Documenter les **bonnes pratiques de gouvernance** concernant le numérique pour favoriser leur duplication ;
-
-
-Proposer la composition d'une **instance de concertation nationale** pour partager les réussites et piloter les grandes orientations en matière d'inclusion et de culture numériques ;
-
-
-Proposer des **méthodes de gouvernance territoriale** pour la mise en œuvre des stratégies locales en se basant sur des facteurs clefs de succès remontés du terrain.
+* Documenter les **bonnes pratiques de gouvernance** concernant le numérique pour favoriser leur duplication ;
+* Proposer la composition d'une **instance de concertation nationale** pour partager les réussites et piloter les grandes orientations en matière d'inclusion et de culture numériques ;
+* Proposer des **méthodes de gouvernance territoriale** pour la mise en œuvre des stratégies locales en se basant sur des facteurs clefs de succès remontés du terrain.
 
  
 
