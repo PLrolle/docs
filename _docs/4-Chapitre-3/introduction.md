@@ -6,6 +6,8 @@ order: 1
 
 ## Les rapporteurs du groupe de travail 3 &nbsp;
 
+![logos des rapporteurs du groupe 3](https://societenumerique.gouv.fr/wp-content/uploads/2018/05/logosGT3.png)
+
 M&eacute;dias-Cit&eacute;, l'Association des R&eacute;gions de France et la R&eacute;gion Hauts-de-France, la Caisse des D&eacute;p&ocirc;ts et Consignations
 
 ## Les objectifs du groupe de travail
