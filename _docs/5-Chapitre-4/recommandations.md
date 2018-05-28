@@ -62,9 +62,9 @@ Pour autant, le groupe de travail a d&eacute;fini certaines missions (non exhaus
 
 Les bonnes pratiques identifi&eacute;es lors de la concertation en mati&egrave;re d’inclusion num&eacute;rique et qui figurent dans cette synth&egrave;se seront renseign&eacute;es sur la plateforme en ligne issue de la strat&eacute;gie afin de permettre leur duplication dans les territoires.
 
-### L’articulation des trois &eacute;chelons\*\*
+### L’articulation des trois &eacute;chelons
 
-SCHEMA
+![Schéma de gouvernance](/uploads/gouvernance.jpg "Schéma de gouvernance"){: srcset="/uploads/gouvernance.jpg 800w, /uploads/gouvernance@2x.jpg 1600w"}
 
 ### Proposer un &eacute;v&egrave;nement national de lancement de la gouvernance
 
