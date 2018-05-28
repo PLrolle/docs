@@ -4,102 +4,72 @@ category: Chapitre 4 - Modèles de gouvernance et stratégies locales inspirante
 order: 4
 ---
 
+### Concevoir un dispositif de gouvernance int&eacute;grant l’articulation de trois &eacute;chelons permettant :
 
-### Concevoir un dispositif de gouvernance intégrant l'articulation de trois échelons permettant :
+* D’assurer un pilotage national avec un portage politique fort
+* De laisser place &agrave; l’&eacute;mergence au niveau local
+* De structurer un niveau interm&eacute;diaire relai entre ces deux premiers &eacute;chelons
 
+Les ambitions d’une telle gouvernance sont multiples : faciliter la consolidation des strat&eacute;gies et politiques nationales et locales, encourager l’&eacute;mergence d’initiatives et d&eacute;finir des principes actifs et des actions prioritaires &agrave; partager entre les acteurs. Il s’agit d’instaurer **une gouvernance de long terme, &eacute;volutive**, qui facilite la diffusion des usages num&eacute;riques au sein de la soci&eacute;t&eacute;. La gouvernance propos&eacute;e permettra d’animer et de mettre en r&eacute;seau toutes les parties prenantes concern&eacute;es par l’inclusion num&eacute;rique notamment les acteurs de la m&eacute;diation num&eacute;rique par la mise en œuvre de certains dispositifs pr&eacute;conis&eacute;s par le groupe de travail 2. Enfin, elle aura un r&ocirc;le d’orchestration des diff&eacute;rents dispositifs de financement pr&eacute;sent&eacute;s dans le groupe de travail 3.
 
-* D'assurer un pilotage national avec un portage politique fort
-* De laisser place à l'émergence au niveau local
-* De structurer un niveau intermédiaire relai entre ces deux premiers échelons
+Le dispositif de gouvernance imagin&eacute; se d&eacute;clinerait donc sur trois &eacute;chelons :
 
-             
+* **&Eacute;chelon de pilotage et d’orientation (&eacute;chelon national) :** un organe ex&eacute;cutif pilote l’ambition nationale et rassemble les structures repr&eacute;sentatives des parties prenantes (collectivit&eacute;s, administrations centrales, associations d’usagers, professionnels, op&eacute;rateurs de service public) ;
+* **&Eacute;chelon de mise en commun (&eacute;chelon interm&eacute;diaire)** en capacit&eacute; d’animer tous les acteurs publics, priv&eacute;s et associatifs &agrave; un &eacute;chelon territorial permettant la mutualisation et la subsidiarit&eacute; entre acteurs de terrain ;
 
-Les ambitions d'une telle gouvernance sont multiples : faciliter la consolidation des stratégies et politiques nationales et locales, encourager l'émergence d'initiatives et définir des principes actifs et des actions prioritaires à partager entre les acteurs. Il s'agit d'instaurer **une gouvernance de long terme, évolutive**, qui facilite la diffusion des usages numériques au sein de la société. La gouvernance proposée permettra d'animer et de mettre en réseau toutes les parties prenantes concernées par l'inclusion numérique notamment les acteurs de la médiation numérique par la mise en œuvre de certains dispositifs préconisés par le groupe de travail 2. Enfin, elle aura un rôle d'orchestration des différents dispositifs de financement présentés dans le groupe de travail 3.
-                      	
+* **&Eacute;chelon de mise en œuvre (&eacute;chelon local)** qui garantit l’autonomie et la libre organisation des acteurs pour favoriser l’&eacute;mergence de projets. Les collectivit&eacute;s locales animent les acteurs en capacit&eacute; d’agir en mati&egrave;re d’inclusion num&eacute;rique. L’objectif est de rassembler un spectre tr&egrave;s large d’acteurs territoriaux en capacit&eacute; d’accompagner les populations; .
 
-- Le dispositif de gouvernance imaginé se déclinerait donc sur trois échelons :
+### **L’&eacute;chelon national d’orientation**
 
-* **Échelon de pilotage et d'orientation (échelon national) :** un organe exécutif pilote l'ambition nationale et rassemble les structures représentatives des parties prenantes (collectivités, administrations centrales, associations d'usagers, professionnels, opérateurs de service public) ;
-* **Échelon de mise en commun (échelon intermédiaire)** en capacité d'animer tous les acteurs publics, privés et associatifs à un échelon territorial permettant la mutualisation et la subsidiarité entre acteurs de terrain ;
+A cet &eacute;chelon, le dispositif de gouvernance pourrait &ecirc;tre constitu&eacute; d’une instance partenariale, ayant pour r&ocirc;le de **d&eacute;finir les orientations &agrave; l’&eacute;chelle nationale et de piloter les ambitions nationales** et appuy&eacute; d’une mission support qui assurerait le suivi op&eacute;rationnel de ces orientations. Elle serait en coordination avec les travaux r&eacute;alis&eacute;s dans le cadre de la Conf&eacute;rence nationale des territoires mais aussi avec les instances op&eacute;rationnelles comme le programme D&eacute;veloppement Concert&eacute; de l’Administration Num&eacute;rique Territoriale. Une instance nationale partenariale devrait &ecirc;tre cr&eacute;&eacute;e pour assumer les missions suivantes :
 
-*  **Échelon de mise en œuvre (échelon local)** qui garantit l'autonomie et la libre organisation des acteurs pour favoriser l'émergence de projets. Les collectivités locales animent les acteurs  en capacité d'agir en matière d'inclusion numérique. L'objectif est de rassembler un spectre très large d'acteurs territoriaux en capacité d'accompagner les populations; .
+Piloter l’avanc&eacute;e des travaux de la strat&eacute;gie nationale, pr&eacute;voir les ajustements n&eacute;cessaires, et &eacute;valuer sa mise en œuvre D&eacute;finir le &laquo; cadre minimum obligatoire de gouvernance &raquo; et s’assurer de la mise en place des &eacute;chelons interm&eacute;diaires et locaux Avoir un r&ocirc;le d’articulation et de fl&eacute;chage des ressources financi&egrave;res selon les recommandations du groupe de travail 3 Avoir un r&ocirc;le de veille, conseil et orientation aupr&egrave;s du Gouvernement
 
+La m&eacute;thodologie du programme DCANT et son instance nationale partenariale (INP) ont inspir&eacute; une possible constitution de cette instance ad hoc. L’id&eacute;e de cette INP est de r&eacute;unir &agrave; la fois l’interminist&eacute;riel et l’interterritorial (via les associations de collectivit&eacute;s notamment). Elle regrouperait les acteurs suivants : Etat, associations de collectivit&eacute;s locales, repr&eacute;sentants de professionnels de la m&eacute;diation num&eacute;rique et sociale, op&eacute;rateurs de services publics, repr&eacute;sentants de tiers lieux et fablabs, t&ecirc;tes de r&eacute;seaux associatifs, et chercheurs. Une mission support devrait prendre en charge l’appui technique pour cette instance nationale. Pour cela, il est pr&eacute;f&eacute;rable de s’appuyer sur des organisations existantes comme la Mission Soci&eacute;t&eacute; Num&eacute;rique.
 
-### **L'échelon national d'orientation**
+### L’&eacute;chelon interm&eacute;diaire de mise en commun
 
- 
-A cet échelon, le dispositif de gouvernance pourrait être constitué d'une instance partenariale, ayant pour rôle de **définir les orientations à l'échelle nationale et de piloter les ambitions nationales** et appuyé d'une mission support qui assurerait le suivi opérationnel de ces orientations. Elle serait en coordination avec les travaux réalisés dans le cadre de la Conférence nationale des territoires mais aussi avec les instances opérationnelles comme le programme Développement Concerté de l'Administration Numérique Territoriale. Une instance nationale partenariale devrait être créée pour assumer les missions suivantes :
+Les missions de l’instance de l’&eacute;chelon de mise en commun seraient les suivantes :
 
-Piloter l'avancée des travaux de la stratégie nationale, prévoir les ajustements nécessaires, et évaluer sa mise en œuvre
-Définir le « cadre minimum obligatoire de gouvernance » et s'assurer de la mise en place des échelons intermédiaires et locaux
-Avoir un rôle d'articulation et de fléchage des ressources financières selon les recommandations du groupe de travail 3
-Avoir un rôle de veille, conseil et orientation auprès du Gouvernement
+&Ecirc;tre le relais r&eacute;f&eacute;rent de l’ambition nationale et permettre l’articulation entre les actions locales et les orientations nationales. Centraliser les remont&eacute;es terrain (assurer la documentation des retours d’exp&eacute;riences des acteurs locaux, capter des donn&eacute;es qualifi&eacute;es et g&eacute;o-localis&eacute;es qui permettront d’am&eacute;liorer / optimiser les services propos&eacute;s) Identifier les difficult&eacute;s locales et saisir l’instance nationale en cas de besoin (curation du contr&ocirc;le qualit&eacute; de la prestation des acteurs locaux de m&eacute;diation num&eacute;rique qui conditionne l’acc&egrave;s &agrave; certains financements) Rendre compte et participer aux instances pr&eacute;existantes (CRSN…) Coordonner l’attribution des fonds d&eacute;cid&eacute;e par l’instance nationale partenariale selon des modalit&eacute;s recommand&eacute;es par le groupe de travail 3
 
-La méthodologie du programme DCANT et son instance nationale partenariale (INP) ont inspiré une possible constitution de cette instance ad hoc. L'idée de cette INP est de réunir à la fois l'interministériel et l'interterritorial (via les associations de collectivités notamment). Elle regrouperait les acteurs suivants : Etat, associations de collectivités locales, représentants de professionnels de la médiation numérique et sociale, opérateurs de services publics, représentants de tiers lieux et fablabs, têtes de réseaux associatifs, et chercheurs. Une mission support devrait prendre en charge l'appui technique pour cette instance nationale. Pour cela, il est préférable de s'appuyer sur des organisations existantes comme la Mission Société Numérique.
+Cette instance politique serait compos&eacute;e des acteurs suivants : Etat d&eacute;concentr&eacute;, collectivit&eacute;s locale, acteurs locaux de la m&eacute;diation num&eacute;rique et sociale, r&eacute;seau local des tiers-lieux et fablabs, op&eacute;rateurs de services publics, tissus associatifs locaux.
 
-### L'échelon intermédiaire de mise en commun
+Lors de la phase de consultation, le d&eacute;partement a souvent &eacute;t&eacute; d&eacute;sign&eacute; comme l’&eacute;chelon administratif le plus coh&eacute;rent pour constituer cet &eacute;chelon interm&eacute;diaire de gouvernance. L’instance de l’&eacute;chelon de mise en commun reposerait donc sur les d&eacute;partements ainsi que sur les sch&eacute;mas pr&eacute;existants : dans un premier temps il est recommand&eacute; sur les SDAASAP, en int&eacute;grant dans les comit&eacute;s de pilotage les acteurs de la m&eacute;diation num&eacute;rique, avant &eacute;ventuellement de constituer une instance plus large sur la th&eacute;matique de l’inclusion et des cultures num&eacute;riques.
 
+A cet &eacute;chelon aussi, une mission de pilotage devrait appuyer l’instance interm&eacute;diaire afin :
 
-Les missions de l'instance de l'échelon de mise en commun seraient les suivantes :
+* D’animer le r&eacute;seau localde m&eacute;diation num&eacute;rique et la concertation des acteurs
+* De s’assurer du bon maillage territorial (sourcing d’initiatives sur les bassins de vie qui ne sont pas assez couverts)
+* D’animer la cartographie des acteurs du territoire selon les recommandations formul&eacute;es par le groupe de travail 2
+* D’assurer la formation des m&eacute;diateurs num&eacute;riques - inscription dans une dynamique d’&eacute;volution professionnelle - ainsi que des acteurs sociaux et agents d’accueil (&agrave; l’identification, le diagnostic, la sensibilisation et la redirection des publics)
+* De fournir une prestation d’accompagnement en ing&eacute;nierie financi&egrave;re pour l’acc&egrave;s &agrave; des financements structurants (fonds europ&eacute;ens) aux structures de taille r&eacute;duite
 
-Être le relais référent de l'ambition nationale et permettre l'articulation entre les actions locales et les orientations nationales.
-Centraliser les remontées terrain (assurer la documentation des retours d'expériences des acteurs locaux, capter des données qualifiées et géo-localisées qui permettront d'améliorer / optimiser les services proposés)
-Identifier les difficultés locales et saisir l'instance nationale en cas de besoin (curation du contrôle qualité de la prestation des acteurs locaux de médiation numérique qui conditionne l'accès à certains financements)
-Rendre compte et participer aux instances préexistantes (CRSN…)
-Coordonner l'attribution des fonds décidée par l'instance nationale partenariale selon des modalités recommandées par le groupe de travail 3
+Cette mission de pilotage pourrait &ecirc;tre incarn&eacute;e par des structures interm&eacute;diaires &eacute;voqu&eacute;es dans les propositions du groupe de travail 3.
 
-Cette instance politique serait composée des acteurs suivants : Etat déconcentré, collectivités locale, acteurs locaux de la médiation numérique et sociale, réseau local des tiers-lieux et fablabs, opérateurs de services publics, tissus associatifs locaux.
+### L’&eacute;chelon local de mise en œuvre
 
-Lors de la phase de consultation, le département a souvent été désigné comme l'échelon administratif le plus cohérent pour constituer cet échelon intermédiaire de gouvernance. L'instance de l'échelon de mise en commun reposerait donc sur les départements ainsi que sur les schémas préexistants : dans un premier temps il est recommandé sur les SDAASAP, en intégrant dans les comités de pilotage les acteurs de la médiation numérique, avant éventuellement de constituer une instance plus large sur la thématique de l'inclusion et des cultures numériques.
+A l’&eacute;chelle locale, la structuration de la gouvernance reposera sur une libre &eacute;mergence des acteurs. La pr&eacute;conisation du groupe de travail est de ne pas cr&eacute;er d’instance ; une autonomie sera laiss&eacute;e aux leaders naturels des bassins de vie qui seront outill&eacute;s pour mettre en place des strat&eacute;gies locales (fiches techniques, matrice des acteurs &agrave; mobiliser, duplication de bonnes pratiques).
 
+Pour autant, le groupe de travail a d&eacute;fini certaines missions (non exhaustives) qui pourraient &ecirc;tre attribu&eacute;es &agrave; cet &eacute;chelon :
 
-A cet échelon aussi, une mission de pilotage devrait appuyer l'instance intermédiaire afin :
+* Organiser les rencontres r&eacute;guli&egrave;res entre les acteurs locaux de l’inclusion num&eacute;rique *(sur la base des outils r&eacute;alis&eacute;s par le groupe de travail 1 et qui seront mis &agrave; disposition sur la plateforme en ligne)*
+* Mobiliser les acteurs autour du sujet (*sur la base des outils r&eacute;alis&eacute;s par le groupe de travail 1 et qui seront mis &agrave; disposition sur la plateforme en ligne)*
+* Coordonner les acteurs
+* Stimuler l’&eacute;mergence d’initiatives, l’identification des initiatives non institutionnelles (de particuliers, b&eacute;n&eacute;voles, etc.) et l’adh&eacute;sion &agrave; la dynamique commune
+* Alimenter la cartographie des acteurs du territoire
+* Rendre compte au sein des instances interm&eacute;diaires des enjeux locaux
 
+Les bonnes pratiques identifi&eacute;es lors de la concertation en mati&egrave;re d’inclusion num&eacute;rique et qui figurent dans cette synth&egrave;se seront renseign&eacute;es sur la plateforme en ligne issue de la strat&eacute;gie afin de permettre leur duplication dans les territoires.
 
-*   D'animer le réseau localde médiation numérique et la concertation des acteurs
-*   De s'assurer du bon maillage territorial (sourcing d'initiatives sur les bassins de vie qui ne sont pas assez couverts)
-*   D'animer la cartographie des acteurs du territoire selon les recommandations formulées par le groupe de travail 2
-*   D'assurer la formation des médiateurs numériques - inscription dans une dynamique d'évolution professionnelle - ainsi que des acteurs sociaux et agents d'accueil (à l'identification, le diagnostic, la sensibilisation et la redirection des publics)
-*   De fournir une prestation d'accompagnement en ingénierie financière pour l'accès à des financements structurants (fonds européens) aux structures de taille réduite
-
- 
-Cette mission de pilotage pourrait être incarnée par des structures intermédiaires évoquées dans les propositions du groupe de travail 3.
-
-### L'échelon local de mise en œuvre
-
-
-A l'échelle locale, la structuration de la gouvernance reposera sur une libre émergence des acteurs. La préconisation du groupe de travail est de ne pas créer d'instance ; une autonomie sera laissée aux leaders naturels des bassins de vie qui seront outillés pour mettre en place des stratégies locales (fiches techniques, matrice des acteurs à mobiliser, duplication de bonnes pratiques).
-
-
-Pour autant, le groupe de travail a défini certaines missions (non exhaustives) qui pourraient être attribuées à cet échelon :
-
-Organiser les rencontres régulières entre les acteurs locaux de l'inclusion numérique _(sur la base des outils réalisés par le groupe de travail 1 et qui seront mis à disposition sur la plateforme en ligne)_
-
-Mobiliser les acteurs autour du sujet (_sur la base des outils réalisés par le groupe de travail 1 et qui seront mis à disposition sur la plateforme en ligne)_
-
-Coordonner les acteurs
-
-Stimuler l'émergence d'initiatives, l'identification des initiatives non institutionnelles (de particuliers, bénévoles, etc.) et l'adhésion à la dynamique commune 
-
-Alimenter la cartographie des acteurs du territoire
-
-Rendre compte au sein des instances intermédiaires des enjeux locaux
-
- 
-
-Les bonnes pratiques identifiées lors de la concertation en matière d'inclusion numérique et qui figurent dans cette synthèse seront renseignées sur la plateforme en ligne issue de la stratégie afin de permettre leur duplication dans les territoires.
-
- 
-### L'articulation des trois échelons**
+### L’articulation des trois &eacute;chelons\*\*
 
 SCHEMA
- 
-### Proposer un évènement national de lancement de la gouvernance 
 
-Les rapporteurs préconisent la tenue chaque année d'un événement dédié à l'inclusion et aux cultures numériques pour croiser les approches et les expériences et faire vivre cette dynamique collective_. _Cet événement pourrait avoir lieu pour la première année, en 2018, lors  de l'édition  de « Numérique en commun », en cours de conception et prévu à Nantes, les 13 et 14 septembre prochain.
+### Proposer un &eacute;v&egrave;nement national de lancement de la gouvernance
 
-### Mettre en oeuvre des « territoires pilotes »
+Les rapporteurs pr&eacute;conisent la tenue chaque ann&eacute;e d’un &eacute;v&eacute;nement d&eacute;di&eacute; &agrave; l’inclusion et aux cultures num&eacute;riques pour croiser les approches et les exp&eacute;riences et faire vivre cette dynamique collective . **Cet &eacute;v&eacute;nement pourrait avoir lieu pour la premi&egrave;re ann&eacute;e, en 2018, lors de l’&eacute;dition de &laquo; Num&eacute;rique en commun &raquo;, en cours de conception et pr&eacute;vu &agrave; Nantes, les 13 et 14 septembre prochain.**
 
+### Mettre en oeuvre des &laquo; territoires pilotes &raquo;
 
-Il est enfin préconisé de mettre en place un dispositifs de « territoires pilotes » dont l'objectif sera d'accélérer la mise en œuvre de stratégies d'inclusion numérique dans des territoires spécifiques afin d'expérimenter le modèle de gouvernance proposée et de construire les outils nécessaires à l'élaboration de la stratégie.
-
+Il est enfin pr&eacute;conis&eacute; de mettre en place un dispositifs de &laquo; territoires pilotes &raquo; dont l’objectif sera d’acc&eacute;l&eacute;rer la mise en œuvre de strat&eacute;gies d’inclusion num&eacute;rique dans des territoires sp&eacute;cifiques afin d’exp&eacute;rimenter le mod&egrave;le de gouvernance propos&eacute;e et de construire les outils n&eacute;cessaires &agrave; l’&eacute;laboration de la strat&eacute;gie.
