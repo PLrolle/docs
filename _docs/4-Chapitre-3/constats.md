@@ -53,7 +53,7 @@ Par exemple, l’&eacute;tude d’un &eacute;chantillon de Contrats de Plan &Eac
 
 **Ce constat semble partag&eacute; par les bailleurs de fonds priv&eacute;s**, qui ne peuvent appr&eacute;cier l’impact de leurs contributions en raison de la faible capacit&eacute; d’action et de la dispersion relative des acteurs. C’est la cas de la fondation Free, auditionn&eacute;e, qui cherche dans le cadre de son appel &agrave; projet 2018 &agrave; financer des rassemblements d’acteurs.
 
-*Ins&eacute;rer Cartographie Capgemini en pleine page (Antony &gt; voir avec Alexandre pour cela)*
+![](/uploads/cartogt3.jpg){: srcset="/uploads/cartogt3.jpg 800w, /uploads/cartogt3@2x.jpg 1600w"}
 
 > **Cas du d&eacute;veloppement de l’association ICI et du projet Net 94**
 >
