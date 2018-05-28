@@ -4,9 +4,9 @@ category: Chapitre 1 - atteindre et orienter les publics
 order: 3
 ---
 
-## &nbsp;2-1 Quantifier les difficult&eacute;s d’acc&egrave;s &agrave; l’&eacute;quipement et &agrave; une connexion internet
+## &nbsp;2.1 Quantifier les difficult&eacute;s d’acc&egrave;s &agrave; l’&eacute;quipement et &agrave; une connexion internet
 
-La premi&egrave;re difficult&eacute; qui &eacute;merge des consultations est celle de l’&eacute;quipement et de l’acc&egrave;s &agrave; une connexion internet. Cette question se pose d’abord pour les publics eux-m&ecirc;mes, qui n’ont pas toujours les moyens de s’&eacute;quiper et d’acc&eacute;der &agrave; une connexion internet, que ce soit pour des questions de couverture (zones blanches) ou de moyens financiers en t&eacute;moignent le D&eacute;fenseur des Droits et l'UNCASS.
+La premi&egrave;re difficult&eacute; qui &eacute;merge des consultations est celle de l’&eacute;quipement et de l’acc&egrave;s &agrave; une connexion internet. Cette question se pose d’abord pour les publics eux-m&ecirc;mes, qui n’ont pas toujours les moyens de s’&eacute;quiper et d’acc&eacute;der &agrave; une connexion internet, que ce soit pour des questions de couverture (zones blanches) ou de moyens financiers en t&eacute;moignent le D&eacute;fenseur des Droits et l’UNCASS.
 
 La question de l’&eacute;quipement en mat&eacute;riel informatique se pose aussi pour les organisations recevant des publics. Face au report de flux des personnes en difficult&eacute; avec les d&eacute;marches en ligne sur ces organisations, celles-ci n’ont pas toujours les moyens de r&eacute;pondre &agrave; une telle demande.
 
@@ -19,7 +19,7 @@ La question de l’&eacute;quipement en mat&eacute;riel informatique se pose aus
 
 Plusieurs structures soulignent les probl&egrave;mes rencontr&eacute;s &nbsp;pour atteindre les publics en situation de difficult&eacute; par rapport au num&eacute;rique. Certains font la d&eacute;marche d’aller vers les publics pour anticiper les besoins. Par exemple, les m&eacute;diateurs sociaux dans les &eacute;coles et les coll&egrave;ges sensibilisent les parents aux limites d’&acirc;ge et aux usages des r&eacute;seaux sociaux, au cyber-harc&egrave;lement. Pour permettre un acc&egrave;s aux droits, ils font un travail de veille sociale qui consiste &agrave; rep&eacute;rer les personnes &eacute;loign&eacute;es de l’acc&egrave;s aux droits.
 
-Les op&eacute;rateurs publics qui touchent une grande partie de la population sont impliqu&eacute;s dans **l'enjeu de d&eacute;tection de l'autonomie num&eacute;rique** pour continuer &agrave; proposer un accompagnement &agrave; ceux qui en ont besoin et orienter vers des parcours d'inclusion num&eacute;rique.
+Les op&eacute;rateurs publics qui touchent une grande partie de la population sont impliqu&eacute;s dans **l’enjeu de d&eacute;tection de l’autonomie num&eacute;rique** pour continuer &agrave; proposer un accompagnement &agrave; ceux qui en ont besoin et orienter vers des parcours d’inclusion num&eacute;rique.
 
 Par ailleurs, certains op&eacute;rateurs de service public m&egrave;nent actuellement des exp&eacute;rimentations pour s’appuyer sur leurs bases de donn&eacute;es pour rep&eacute;rer les personnes en difficult&eacute; avec le num&eacute;rique.
 
