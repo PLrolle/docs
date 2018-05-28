@@ -138,7 +138,7 @@ Si les strat&eacute;gies d’inclusion num&eacute;rique peuvent &ecirc;tre envis
 
 Afin d’orienter les fonds mobilis&eacute;s vers les publics cibles et les services rendus les plus urgents, il faut envisager des m&eacute;canismes de ciblage et donc **l****e passage &agrave; l’&eacute;chelle d’initiatives existantes dans ce domaine**.&nbsp;
 
-> **Le ch&egrave;que “Culture Num&eacute;rique” APTIC - v&eacute;hicule de diffusion des fonds mobilisables sur le terrain **
+> \*\*Le ch&egrave;que “Culture Num&eacute;rique” APTIC - v&eacute;hicule de diffusion des fonds mobilisables sur le terrain \*\*
 >
 >
 > Le dispositif de ch&egrave;ques APTIC, laur&eacute;at de la “Fondation AFNIC pour la solidarit&eacute; num&eacute;rique” et de &laquo; La France s’engage &raquo; en 2017, permet une distribution cibl&eacute;e de ch&eacute;quiers physiques aux personnes n&eacute;cessitant un accompagnement au num&eacute;rique. Con&ccedil;u sur le mod&egrave;le des titres-restaurant, chaque ch&egrave;que #APTIC permet de payer totalement ou partiellement les services de m&eacute;diation num&eacute;rique. Actuellement d&eacute;ploy&eacute; sur plusieurs territoires en France, il fait &eacute;galement l’objet d’actions-pilotes en partenariat avec la Mission Soci&eacute;t&eacute; Num&eacute;rique depuis 2017. Ce dispositif est une approche innovante de la m&eacute;diation num&eacute;rique permettant de : impliquer tous les acteurs concern&eacute;s par la transition num&eacute;rique des citoyens, des organisations et des territoires, en leur permettant de devenir “commanditaires” pour agir concr&egrave;tement pour l’inclusion num&eacute;rique. #APTIC repose sur la multiplication de ces commanditaires pour :
@@ -174,3 +174,7 @@ Par ailleurs, il est int&eacute;ressant de noter que l’&eacute;tude de plusieu
 Des solutions &eacute;mergent &eacute;galement de l’&eacute;cosyst&egrave;me, ainsi le **fonds CoopVenture (**CGScoop, Alma et Digital Grenoble**)** proposera une solution alternative de financement destin&eacute;e &agrave; l’&eacute;mergence de l’entrepreneuriat collectif. Ce fonds sera l’un des chefs de file de l’investissement alternatif pouvant accompagner la structuration d’acteurs d’envergure nationale de m&eacute;diation num&eacute;rique.
 
 La mont&eacute;e en puissance du **secteur de l’&Eacute;conomie Sociale et Solidaire** semble une opportunit&eacute; &agrave; saisir pour renforcer la fili&egrave;re de la m&eacute;diation num&eacute;rique. Par exemple, le programme **“Pionniers French Impact”** lanc&eacute; d&eacute;but 2018 par le Haut Commissariat &agrave; l’&Eacute;conomie sociale et solidaire et &agrave; l’Innovation sociale favorise le regroupement en coalition d’acteurs pour le financement de projets d’envergure nationale. Il pourrait financer un regroupement d’acteurs au service de la m&eacute;diation num&eacute;rique.
+
+## Principales conclusions
+
+Ainsi, les rapporteurs recommandent d’agir &agrave; partir de 3 objectifs cl&eacute;s : 1) agir prioritairement sur les publics les plus fragiles, 2) d&eacute;ployer des parcours permettant la mise en autonomie des b&eacute;n&eacute;ficiaires, et enfin 3) s’assurer d’un niveau de r&eacute;ponse acceptable en tout point du territoire.
