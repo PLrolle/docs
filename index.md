@@ -4,7 +4,7 @@ title: Stratégie nationale pour un numérique inclusif - le rapport
 
 > Bienvenue sur la version en ligne du **rapport sur la mise en oeuvre d'une strat&eacute;gie nationale pour un num&eacute;rique inclusif** remis &agrave; sa demande au **Secr&eacute;taire d'Etat aupr&egrave;s du Premier Ministre, charg&eacute; du num&eacute;rique.**
 
-> [**T&eacute;l&eacute;charger la version PDF du rapport**](/rapport_numérique_inclusif.pdf)
+> [**T&eacute;l&eacute;charger la version PDF du rapport**](/rapport_numerique_inclusif.pdf)
 
 > Un espace est &agrave; votre disposition [pour publier vos r&eacute;actions](https://strategie.societenumerique.gouv.fr){: target="_blank"}
 
