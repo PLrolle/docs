@@ -109,7 +109,7 @@ France M&eacute;diation, le r&eacute;seau d’acteurs de la m&eacute;diation soc
 
 Le d&eacute;veloppement des r&eacute;seaux de partenariats d'accueil sur les territoires est fortement impuls&eacute; par l'Etat, notamment au moyen du dispositif de "maisons de services aux publics". Par ailleurs, si certains services publics ont ferm&eacute; leurs accueils physiques, d'autres ont transform&eacute; leurs modalit&eacute;s d'accueil.
 
-> Les Caf ont fait &eacute;volue&eacute; tous les "guichets d'accueil" en espaces multiservices accompagn&eacute;s par des professionnels de l'accompagnement num&eacute;rique (plus de 650 "conseillers services &agrave; l'usager" sur l'ensemble du territoire).
+> Les Caf ont fait &eacute;voluer tous les "guichets d'accueil" en espaces multiservices accompagn&eacute;s par des professionnels de l'accompagnement num&eacute;rique (plus de 650 "conseillers services &agrave; l'usager" sur l'ensemble du territoire).
 
 On observe donc une augmentation de l’accompagnement li&eacute; aux usages du num&eacute;rique par diff&eacute;rents types d’acteurs de proximit&eacute; largement implant&eacute;s dans les territoires et par les acteurs de l’accompagnement social. Ce report de charge n’est pour autant pas toujours accompagn&eacute; d’un d&eacute;ploiement de moyens techniques, humains et financiers.
 
